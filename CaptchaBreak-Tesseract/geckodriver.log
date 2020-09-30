@@ -1,0 +1,367 @@
+1601401837218	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.8DaUmwG7glKe"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601401867539	Marionette	INFO	Listening on port 40527
+1601401867763	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/show_ads.js, line 52: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=10
+1601401885239	Marionette	INFO	Stopped listening on port 40527
+JavaScript error: , line 0: uncaught exception: undefined
+1601401890779	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.1Cnfer6twaqq"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601401894955	Marionette	INFO	Listening on port 37879
+1601401895015	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601401905530	Marionette	INFO	Stopped listening on port 37879
+JavaScript error: , line 0: uncaught exception: undefined
+1601401907280	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.jD9hqwz7v6ZD"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601401910248	Marionette	INFO	Listening on port 38465
+1601401910291	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601401920453	Marionette	INFO	Stopped listening on port 38465
+JavaScript error: , line 0: uncaught exception: undefined
+1601401922157	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.hs8qOcUAc9aT"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601401925708	Marionette	INFO	Listening on port 40357
+1601401925774	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/show_ads.js, line 52: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=10
+1601401938814	Marionette	INFO	Stopped listening on port 40357
+JavaScript error: , line 0: uncaught exception: undefined
+1601401942250	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6ktJTEta1ogf"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601401945672	Marionette	INFO	Listening on port 43445
+1601401945772	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1601401960080	Marionette	INFO	Stopped listening on port 43445
+JavaScript error: , line 0: uncaught exception: undefined
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390138,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+1601401961629	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.tYcCLOV38uwI"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601401964592	Marionette	INFO	Listening on port 35537
+1601401964642	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://pagead2.googlesyndication.com/pagead/show_ads.js, line 52: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=10
+1601401976182	Marionette	INFO	Stopped listening on port 35537
+JavaScript error: , line 0: uncaught exception: undefined
+1601401979614	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.HUs1bFFKl0EU"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601401981993	Marionette	INFO	Listening on port 39881
+1601401982026	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/show_ads.js, line 52: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=10
+1601401993875	Marionette	INFO	Stopped listening on port 39881
+JavaScript error: , line 0: uncaught exception: undefined
+1601401997572	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.erlG2kivM2po"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601402000488	Marionette	INFO	Listening on port 46639
+1601402000591	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601402010874	Marionette	INFO	Stopped listening on port 46639
+JavaScript error: , line 0: uncaught exception: undefined
+1601402012564	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XFSOEtwsGFoG"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601402015268	Marionette	INFO	Listening on port 32905
+1601402015288	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601402025166	Marionette	INFO	Stopped listening on port 32905
+JavaScript error: , line 0: uncaught exception: undefined
+1601402026829	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.hdp9R5jE8gjz"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601402031813	Marionette	INFO	Listening on port 44285
+1601402031851	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/show_ads.js, line 52: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=10
+1601402054494	Marionette	INFO	Stopped listening on port 44285
+JavaScript error: , line 0: uncaught exception: undefined
+1601402061699	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Nhnw4LpX5udq"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601402074048	Marionette	INFO	Listening on port 36721
+1601402074062	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1601402085955	Marionette	INFO	Stopped listening on port 36721
+1601402164990	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.u6RibpEgNZLU"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601402168125	Marionette	INFO	Listening on port 36947
+1601402168202	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/show_ads.js, line 52: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=10
+1601402180262	Marionette	INFO	Stopped listening on port 36947
+JavaScript error: , line 0: uncaught exception: undefined
+1601402183588	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Hi2FOuM2ukFS"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601402186487	Marionette	INFO	Listening on port 45737
+1601402186502	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/show_ads.js, line 52: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=10
+1601402198230	Marionette	INFO	Stopped listening on port 45737
+JavaScript error: , line 0: uncaught exception: undefined
+1601402201879	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.UNaWp4KA5UX7"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601402204461	Marionette	INFO	Listening on port 33673
+1601402204494	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://pagead2.googlesyndication.com/pagead/show_ads.js, line 52: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=10
+1601402216282	Marionette	INFO	Stopped listening on port 33673
+JavaScript error: , line 0: uncaught exception: undefined
+1601402219581	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.nIOjAFZPG1RQ"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601402222660	Marionette	INFO	Listening on port 37071
+1601402222700	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/show_ads.js, line 52: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=10
+1601402234259	Marionette	INFO	Stopped listening on port 37071
+JavaScript error: , line 0: uncaught exception: undefined
+1601402237666	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.O5HMJ6yjMV3m"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601402240884	Marionette	INFO	Listening on port 42823
+1601402240990	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/show_ads.js, line 52: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=10
+1601402251722	Marionette	INFO	Stopped listening on port 42823
+JavaScript error: , line 0: uncaught exception: undefined
+1601402567114	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rd4A5or2LJcD"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601402576815	Marionette	INFO	Listening on port 36807
+1601402576850	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/show_ads.js, line 52: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=14
+1601402598442	Marionette	INFO	Stopped listening on port 36807
+1601438878983	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.oOnwzetG5a1H"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601438903490	Marionette	INFO	Listening on port 40951
+1601438903783	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200924/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://pagead2.googlesyndication.com/pagead/show_ads.js, line 52: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=14
+1601438923947	Marionette	INFO	Stopped listening on port 40951
+1601438929839	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.76aS2kmSsj7B"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601438933250	Marionette	INFO	Listening on port 43463
+1601438933260	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+1601438947010	Marionette	INFO	Stopped listening on port 43463
+1601438948543	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2oJAcTjwkPqG"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601438952165	Marionette	INFO	Listening on port 41863
+1601438952265	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/show_ads.js, line 52: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=14
+1601438968526	Marionette	INFO	Stopped listening on port 41863
+JavaScript error: , line 0: uncaught exception: undefined
+1601438974725	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Cc47CbLiVjUc"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601438977440	Marionette	INFO	Listening on port 33901
+1601438977543	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601438991350	Marionette	INFO	Stopped listening on port 33901
+1601438992909	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.yxWpeBHfOYcK"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601438996113	Marionette	INFO	Listening on port 45491
+1601438996129	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+1601439008324	Marionette	INFO	Stopped listening on port 45491
+JavaScript error: , line 0: uncaught exception: undefined
+1601439009798	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.NvTzvVlKsHXw"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601439012392	Marionette	INFO	Listening on port 42717
+1601439012408	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200924/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://pagead2.googlesyndication.com/pagead/show_ads.js, line 52: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=14
+1601439029422	Marionette	INFO	Stopped listening on port 42717
+JavaScript error: , line 0: uncaught exception: undefined
+1601439033356	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.RqpTjL50FLXF"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601439036226	Marionette	INFO	Listening on port 39479
+1601439036269	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+console.warn: services.settings: main/message-groups sync interrupted by shutdown
+console.warn: services.settings: main/cfr-fxa sync interrupted by shutdown
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+console.warn: services.settings: main/cfr sync interrupted by shutdown
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+1601439041943	Marionette	INFO	Stopped listening on port 39479
+1601439112651	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.tD7LV9bg6e2A"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601439115304	Marionette	INFO	Listening on port 42227
+1601439115361	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+1601439126416	Marionette	INFO	Stopped listening on port 42227
+JavaScript error: , line 0: uncaught exception: undefined
+1601439127947	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ZF2VUED6cY06"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601439130503	Marionette	INFO	Listening on port 33781
+1601439130559	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/show_ads.js, line 52: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=14
+1601439146387	Marionette	INFO	Stopped listening on port 33781
+JavaScript error: , line 0: uncaught exception: undefined
+1601439149937	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5P5CnPyboofA"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601439152838	Marionette	INFO	Listening on port 39171
+1601439152865	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200924/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://pagead2.googlesyndication.com/pagead/show_ads.js, line 52: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=14
+1601439167593	Marionette	INFO	Stopped listening on port 39171
+JavaScript error: , line 0: uncaught exception: undefined
+1601439170980	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.T3TXl22Jk2YB"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601439173912	Marionette	INFO	Listening on port 39947
+1601439173992	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601439184777	Marionette	INFO	Stopped listening on port 39947
+JavaScript error: , line 0: uncaught exception: undefined
+1601439186383	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.bI75h04481M0"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601439189031	Marionette	INFO	Listening on port 39963
+1601439189098	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/client/jsonview/Sniffer.jsm, line 56: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200924/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://pagead2.googlesyndication.com/pagead/show_ads.js, line 52: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=14
+1601439204704	Marionette	INFO	Stopped listening on port 39963
+1601439208464	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.DojBtSNhgnPy"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601439211544	Marionette	INFO	Listening on port 39409
+1601439211574	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601439222323	Marionette	INFO	Stopped listening on port 39409
+JavaScript error: , line 0: uncaught exception: undefined
+1601439223850	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.OsZBKBrfyULN"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601439226884	Marionette	INFO	Listening on port 34267
+1601439226960	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/show_ads.js, line 52: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=14
+1601439813918	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rNxe9c75IXSH"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601439834174	Marionette	INFO	Listening on port 37415
+1601439834617	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601439858964	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200924/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://pagead2.googlesyndication.com/pagead/show_ads.js, line 52: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=14
+1601439872179	Marionette	INFO	Stopped listening on port 37415
+1601439884862	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.TDbSW3FjvcJ2"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601439902893	Marionette	INFO	Listening on port 44399
+1601439903084	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/show_ads.js, line 52: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=14
+1601439931886	Marionette	INFO	Stopped listening on port 44399
+1601439939596	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.GjpSntUqGfKH"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601439950860	Marionette	INFO	Listening on port 36725
+1601439950988	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601439964065	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1601439969657	Marionette	INFO	Stopped listening on port 36725
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1601439971914	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.gxSi7DeYEfeh"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601439978052	Marionette	INFO	Listening on port 44367
+1601439978152	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200924/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://pagead2.googlesyndication.com/pagead/show_ads.js, line 52: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=14
+1601440005453	Marionette	INFO	Stopped listening on port 44367
+1601440015708	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5AMZngPospuQ"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601440023441	Marionette	INFO	Listening on port 34869
+1601440023523	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601440046231	Marionette	INFO	Stopped listening on port 34869
+1601440047847	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.QtFzVs5f6KSH"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601440054909	Marionette	INFO	Listening on port 37539
+1601440054987	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601440074943	Marionette	INFO	Stopped listening on port 37539
+1601440079462	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4TADdEoBBlGi"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601440093311	Marionette	INFO	Listening on port 33195
+1601440093476	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601440110626	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1601440114969	Marionette	INFO	Stopped listening on port 33195
+1601440127225	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.9Jt4SCWYjOpZ"
+1601440134383	Marionette	INFO	Stopped listening on port 34267
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601440150281	Marionette	INFO	Listening on port 32837
+1601440150470	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1D0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+console.error: "Could not load engine google@search.mozilla.org: Error: Data is not ready."
+console.error: "Could not load engine amazondotcom@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2529\"  data: no]"
+console.error: "Could not load engine wikipedia@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2529\"  data: no]"
+console.error: "Could not load engine bing@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2529\"  data: no]"
+console.error: "Could not load engine ddg@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2529\"  data: no]"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+1601440166769	Marionette	INFO	Stopped listening on port 32837
+1601440170518	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.imm5wUaLbuTf"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601440175007	Marionette	INFO	Listening on port 37659
+1601440175044	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601440189038	Marionette	INFO	Stopped listening on port 37659
+1601440190841	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.0MJ6mBeTGTva"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601440193783	Marionette	INFO	Listening on port 34847
+1601440193851	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601440205876	Marionette	INFO	Stopped listening on port 34847
+1601440208272	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.YVEnHocp38UE"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601440213641	Marionette	INFO	Listening on port 35857
+1601440213724	Marionette	WARN	TLS certificate errors will be ignored for this session
