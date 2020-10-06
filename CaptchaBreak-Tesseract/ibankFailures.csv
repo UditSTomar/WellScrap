@@ -1,0 +1,49 @@
+company_name,RSSD_ID,RefinedAddress,City,State,Pin,webAddress,YearOpened,FiduciaryPowers,EntityType,MemberFederalReserve,InstitutionType,FederalRegulator,S-Corp,Specialization
+The First State Bank,627425,660 Central Avenue,Barboursville,West Virginia,25504,www.fsb-wv.com,1905,Yes,State,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Ericson State Bank,145956,427 Central Avenue,Ericson,Nebraska,68637,ericsonstatebank.com,1959,No,State,No,Commercial bank,FDIC,No,Agricultural  Specialization
+City National Bank of New Jersey,567905,54 Halsey Street,Newark,New Jersey,7102,www.citynatbank.com,1973,No,Federal,Yes,Commercial bank,OCC,No,Commercial Lending Specialization
+Louisa Community Bank,3462449,4393 Highway 2565,Louisa,Kentucky,41230,www.BankLCB.com,2006,No,State,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Resolute Bank,3461264,3425 Briarfield Boulevard Suite 100,Maumee,Ohio,43537,resolutefsb.com,2006,No,Federal,No,Savings Association,OCC,No,Commercial Lending Specialization
+Enloe State Bank,431958,45 Texas Highway 24 North,Cooper,Texas,75432,www.enloestatebank.com,1928,No,State,No,Commercial bank,FDIC,No,Agricultural  Specialization
+Washington Federal Bank For Savings,309972,2869 South Archer Ave,Chicago,Illinois,60608,www.wafedbank.com,1913,No,Federal,No,Savings Association,OCC,No,Mortgage Lending Specialization
+The Farmers and Merchants State Bank of Argonia,141453,101 S Main Street,Argonia,Kansas,67004,www.farmersandmerchants.com,1901,No,State,No,Commercial bank,FDIC,No,Agricultural  Specialization
+Fayette County Bank,486248,320 North Main Street,Saint Elmo,Illinois,62458,www.fayettecountybk.com,1894,No,State,Yes,Commercial bank,FED,Yes,All Other Specialization  < 1 Billion
+Guaranty Bank,640170,501 West Northshore Drive,Milwaukee,Wisconsin,53217,www.guarantybank.com,1923,No,Federal,No,Savings Association,OCC,No,Mortgage Lending Specialization
+First NBC Bank,3445769,210 Baronne Street,New Orleans,Louisiana,70112,www.firstnbcbank.com,2006,Yes,State,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Proficio Bank,2908575,6985 Union Park Center,Cottonwood Heights,Utah,84047,proficiobank.com,2000,No,State,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Seaway Bank and Trust Company,673431,645 East 87th Street,Chicago,Illinois,60619,,1965,Yes,State,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Harvest Community Bank,2873860,285 North Broadway,Pennsville,New Jersey,8070,www.harvestcommunitybank.com,2000,No,State,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Allied Bank,28349,311 Main Street,Mulberry,Arkansas,72947,www.justbankit.com,1902,No,State,Yes,Commercial bank,FED,No,Commercial Lending Specialization
+The Woodbury Banking Company,34836,33 Jones Mill Road,Woodbury,Georgia,30293,,1902,No,State,No,Commercial bank,FDIC,No,All Other Specialization  < 1 Billion
+First CornerStone Bank,2897754,1004 West Ninth Avenue,King Of Prussia,Pennsylvania,19406,www.firstcornerstone.com,2000,No,State,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Trust Company Bank,450650,766 South White Station Road,Memphis,Tennessee,38117,,1902,No,State,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+North Milwaukee State Bank,759540,5630 West Fond Du Lac Avenue,Milwaukee,Wisconsin,53216,,1971,No,State,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Hometown National Bank,2911986,970 14th Avenue,Longview,Washington,98632,,2000,No,Federal,Yes,Commercial bank,OCC,No,Commercial Lending Specialization
+The Bank of Georgia,2885171,100 West Park Drive,Peachtree City,Georgia,30269,,2000,No,State,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Premier Bank,2380470,2480 West Alameda Avenue,Denver,Colorado,80223,www.premierbankusa.com,1995,No,State,Yes,Commercial bank,FED,No,Commercial Lending Specialization
+Edgebrook Bank,3339925,6000 West Touhy Avenue,Chicago,Illinois,60646,www.edgebrookbank.com,2005,No,State,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Edgebrook Bank,3339925,6000 West Touhy Avenue,Chicago,Illinois,60646,www.edgebrookbank.com,2005,No,State,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+SHREVEPORT FEDERAL CREDIT UNION,619288,P O BOX 3261,SHREVEPORT,LA,71133,,1956,,,,Credit Union,NCUA,,
+VALLEY STATE CREDIT UNION,229490,P.O. BOX 5366,SAGINAW,MI,48603,http://www.valleystatecu.com,1955,,,,Credit Union,NCUA,,
+FCAMEC FEDERAL CREDIT UNION,636089,P.O. BOX 1493,TALLAHASSEE,FL,32302,http://www.fcamec.com,1976,,,,Credit Union,NCUA,,
+FIRST AFRICAN BAPTIST CHURCH FEDERAL CREDIT UNION,846589,901 CLIFTON AVE,SHARON HILL,PA,19079,,1978,,,,Credit Union,NCUA,,
+CARDOZO LODGE FEDERAL CREDIT UNION,311386,1400 Adams Rd Ste A1,Bensalem,PA,19020,,1960,,,,Credit Union,NCUA,,
+CHESTER UPLAND SCHOOL EMPLOYEES FEDERAL CREDIT UNION,515072,"600 MADISON ST, ANNEX BUILDING",CHESTER,PA,19013-6029,,1939,,,,Credit Union,NCUA,,
+ELECTRICAL INSPECTORS FEDERAL CREDIT UNION,463388,1400 Adams Rd Ste A1,Bensalem,PA,19020,,1976,,,,Credit Union,NCUA,,
+O P S EMP FEDERAL CREDIT UNION,685180,1400 Adams Rd Unit A-1,Bensalem,PA,19020,,1968,,,,Credit Union,NCUA,,
+SERVCO FEDERAL CREDIT UNION,685788,1400 Adams Rd Ste A1,Bensalem,PA,19020,,1950,,,,Credit Union,NCUA,,
+TRIANGLE INTERESTS % SERVICE CENTER FEDERAL CREDIT UNION,2501266,1400 Adams Ste A1,Bensalem,PA,19020,,1995,,,,Credit Union,NCUA,,
+VETERANS HEALTH ADMINISTRATION CREDIT UNION,727491,4646 JOHN R,DETROIT,MI,48201,,1954,,,,Credit Union,NCUA,,
+EDUCATION ASSOCIATIONS FEDERAL CREDIT UNION,948782,"1201 16TH ST NW, SUITE B2",WASHINGTON,DC,20036,http://eafcu4u.com,1954,,,,Credit Union,NCUA,,
+MILDRED MITCHELL-BATEMAN HOSPITAL FEDERAL CREDIT UNION,297088,1530 Norway Ave,Huntington,WV,25705,,1980,,,,Credit Union,NCUA,,
+CTK CREDIT UNION,3346240,7750 N 60TH ST,MILWAUKEE,WI,53223-4107,,2004,,,,Credit Union,NCUA,,
+FIRST HAWAIIAN HOMES FEDERAL CREDIT UNION,46071,PO BOX 383,HOOLEHUA,HI,96729,,1937,,,,Credit Union,NCUA,,
+BETHEX FEDERAL CREDIT UNION,453987,20 East 179th Street,Bronx,NY,10453,,1970,,,,Credit Union,NCUA,,
+GREATER ABYSSINIA FEDERAL CREDIT UNION,947084,1161 E 105TH ST,CLEVELAND,OH,44108-3567,,1959,,,,Credit Union,NCUA,,
+HELPING OTHER PEOPLE EXCEL FEDERAL CREDIT UNION,975386,P.O.BOX 722,LAKEWOOD,NJ,08701,http://www.hope-fcu.com,1978,,,,Credit Union,NCUA,,
+SWC CREDIT UNION,515595,347 WEST SHORE PLAZA,TAMPA,FL,33609,,1941,,,,Credit Union,NCUA,,
+SCICAP CREDIT UNION,422899,"1711 OSCEOLA AVE STE 103, PO BOX 71",CHARITON,IA,50049,,1968,,,,Credit Union,NCUA,,
+NEW BETHEL FEDERAL CREDIT UNION,165682,4212 GREENWOOD DR,PORTSMOUTH,VA,23701-3251,,1978,,,,Credit Union,NCUA,,
+LAKESIDE FEDERAL CREDIT UNION,802286,7020 indianapolis blvd,hammond,IN,46324,,1950,,,,Credit Union,NCUA,,
+TRAILBLAZER FEDERAL CREDIT UNION,979085,70 EAST WHEELING STREET,WASHINGTON,PA,15301,,1956,,,,Credit Union,NCUA,,
+TLC FEDERAL CREDIT UNION,98584,P O BOX 160,TILLAMOOK,OR,97141-0160,,1957,,,,Credit Union,NCUA,,
