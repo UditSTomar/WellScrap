@@ -1,0 +1,101 @@
+company_name,RSSD_ID,RefinedAddress,City,State,Pin,YearOpened,ReserveDistrict,EntityType,Structure,InstitutionType,FederalRegulator,S-Corp
+JPMORGAN CHASE & CO.,1039502,383 MADISON AVENUE,NEW YORK,NY,10179,1968,New York,Financial Holding Company - Domestic,Corporation (stock),Holding Company,FED,No
+BANK OF AMERICA CORPORATION,1073757,100 NORTH TRYON STREET,CHARLOTTE,NC,28255,1968,Richmond,Financial Holding Company - Domestic,Corporation (stock),Holding Company,FED,No
+CITIGROUP INC.,1951350,388 GREENWICH STREET,NEW YORK,NY,10013,1912,New York,Financial Holding Company - Domestic,Corporation (stock),Holding Company,FED,No
+WELLS FARGO & COMPANY,1120754,420 MONTGOMERY STREET,SAN FRANCISCO,CA,94104,1929,San Francisco,Financial Holding Company - Domestic,Corporation (stock),Holding Company,FED,No
+"GOLDMAN SACHS GROUP, INC., THE",2380443,200 WEST STREET,NEW YORK,NY,10282,1990,New York,Financial Holding Company - Domestic,Corporation (stock),Securities broker and/or dealer,FED,No
+MORGAN STANLEY,2162966,1585 BROADWAY,NEW YORK,NY,10036,1924,New York,Financial Holding Company - Domestic,Corporation (stock),Other nondepository institution,FED,No
+U.S. BANCORP,1119794,800 NICOLLET MALL,MINNEAPOLIS,MN,55402,1929,Minneapolis,Financial Holding Company - Domestic,Corporation (stock),Holding Company,FED,No
+TRUIST FINANCIAL CORPORATION,1074156,214 N. TRYON STREET,CHARLOTTE,NC,28202,1969,Richmond,Financial Holding Company - Domestic,Corporation (stock),Holding Company,FED,No
+TD GROUP US HOLDINGS LLC,3606542,251 LITTLE FALLS DRIVE,WILMINGTON,DE,19808,2007,Philadelphia,Intermediate Holding Company,Limited liability company/corporation,Holding Company,FED,No
+"PNC FINANCIAL SERVICES GROUP, INC., THE",1069778,300 FIFTH AVENUE,PITTSBURGH,PA,15222,1969,Cleveland,Financial Holding Company - Domestic,Corporation (stock),Holding Company,FED,No
+"BANK OF NEW YORK MELLON CORPORATION, THE",3587146,240 GREENWICH STREET,NEW YORK,NY,10286,2007,New York,Financial Holding Company - Domestic,Corporation (stock),Holding Company,FED,No
+CAPITAL ONE FINANCIAL CORPORATION,2277860,1680 CAPITAL ONE DRIVE,MCLEAN,VA,22102,1994,Richmond,Financial Holding Company - Domestic,Corporation (stock),Holding Company,FED,No
+"CHARLES SCHWAB CORPORATION, THE",1026632,211 MAIN STREET,SAN FRANCISCO,CA,94105,1983,San Francisco,Savings and Loan Holding Company,Corporation (stock),Holding Company,FED,No
+HSBC NORTH AMERICA HOLDINGS INC.,3232316,452 FIFTH AVENUE,NEW YORK,NY,10018,2004,Chicago,Intermediate Holding Company,Corporation (stock),Holding Company,FED,No
+STATE STREET CORPORATION,1111435,ONE LINCOLN STREET,BOSTON,MA,02111,1959,Boston,Financial Holding Company - Domestic,Corporation (stock),Holding Company,FED,No
+FIFTH THIRD BANCORP,1070345,38 FOUNTAIN SQUARE PLAZA,CINCINNATI,OH,45263,1975,Cleveland,Financial Holding Company - Domestic,Corporation (stock),Holding Company,FED,No
+UNITED SERVICES AUTOMOBILE ASSOCIATION,1447376,9800 FREDERICKSBURG ROAD,SAN ANTONIO,TX,78288,1922,Dallas,Savings and Loan Holding Company,Limited liability company/corporation,Insurance underwriting & insurance company,FED,No
+AMERICAN EXPRESS COMPANY,1275216,200 VESEY STREET,NEW YORK,NY,10285,1850,New York,Financial Holding Company - Domestic,Corporation (stock),Other nondepository institution,FED,No
+BMO FINANCIAL CORP.,1245415,1209 ORANGE STREET,WILMINGTON,DE,19801,1984,Chicago,Intermediate Holding Company,Corporation (stock),Holding Company,FED,No
+ALLY FINANCIAL INC.,1562859,500 WOODWARD AVENUE,DETROIT,MI,48226,2008,Chicago,Financial Holding Company - Domestic,Corporation (stock),Other nondepository institution,FED,No
+"CITIZENS FINANCIAL GROUP, INC.",1132449,ONE CITIZENS PLAZA,PROVIDENCE,RI,02903,1985,Boston,Financial Holding Company - Domestic,Corporation (stock),Holding Company,FED,No
+KEYCORP,1068025,127 PUBLIC SQUARE,CLEVELAND,OH,441141306,1958,Cleveland,Financial Holding Company - Domestic,Corporation (stock),Holding Company,FED,No
+MUFG AMERICAS HOLDINGS CORPORATION,1378434,1251 AVENUE OF THE AMERICAS,NEW YORK,NY,10020,1972,San Francisco,Intermediate Holding Company,Corporation (stock),Holding Company,FED,No
+UBS AMERICAS HOLDING LLC,4846998,1285 AVENUE OF THE AMERICAS,NEW YORK,NY,10019,2015,New York,Intermediate Holding Company,Limited liability company/corporation,Holding Company,FED,No
+"AMERIPRISE FINANCIAL, INC.",2433312,707 2ND AVENUE SOUTH,MINNEAPOLIS,MN,55402,1995,Minneapolis,Savings and Loan Holding Company,Corporation (stock),Holding Company,FED,No
+"SANTANDER HOLDINGS USA, INC.",3981856,75 STATE STREET,BOSTON,MA,02109,2008,Boston,Intermediate Holding Company,Corporation (stock),Holding Company,FED,No
+NORTHERN TRUST CORPORATION,1199611,50 SOUTH LA SALLE STREET,CHICAGO,IL,60603,1971,Chicago,Financial Holding Company - Domestic,Corporation (stock),Holding Company,FED,No
+BARCLAYS US LLC,5006575,745 SEVENTH AVE,NEW YORK,NY,10019,2016,New York,Intermediate Holding Company,Limited liability company/corporation,Holding Company,FED,No
+REGIONS FINANCIAL CORPORATION,3242838,1900 FIFTH AVENUE NORTH,BIRMINGHAM,AL,35203,2004,Atlanta,Financial Holding Company - Domestic,Corporation (stock),Holding Company,FED,No
+RBC US GROUP HOLDINGS LLC,5280254,"200 BAY STREET, SOUTH TOWER",TORONTO,0,M5J 2J5,2018,New York,Intermediate Holding Company,Limited liability company/corporation,Holding Company,FED,No
+"BNP PARIBAS USA, INC.",1575569,787 SEVENTH AVENUE,NEW YORK,NY,10019,1980,New York,Intermediate Holding Company,Corporation (stock),Holding Company,FED,No
+M&T BANK CORPORATION,1037003,ONE M&T PLAZA,BUFFALO,NY,142032399,1969,New York,Financial Holding Company - Domestic,Corporation (stock),Holding Company,FED,No
+"CREDIT SUISSE HOLDINGS (USA), INC.",1574834,11 MADISON AVENUE,NEW YORK,NY,10010,0,New York,Intermediate Holding Company,Corporation (stock),Other nondepository institution,FED,No
+HUNTINGTON BANCSHARES INCORPORATED,1068191,41 SOUTH HIGH STREET,COLUMBUS,OH,43287,1967,Cleveland,Financial Holding Company - Domestic,Corporation (stock),Holding Company,FED,No
+DB USA CORPORATION,2816906,60 WALL STREET,NEW YORK,NY,10005,1999,New York,Intermediate Holding Company,Corporation (stock),Holding Company,FED,No
+DISCOVER FINANCIAL SERVICES,3846375,2500 LAKE COOK ROAD,RIVERWOODS,IL,60015,2009,Chicago,Financial Holding Company - Domestic,Corporation (stock),Holding Company,FED,No
+"BBVA USA BANCSHARES, INC.",1078529,2200 POST OAK BOULEVARD,HOUSTON,TX,77056,1971,Atlanta,Intermediate Holding Company,Corporation (stock),Holding Company,FED,No
+SYNCHRONY FINANCIAL,4504654,777 LONG RIDGE ROAD,STAMFORD,CT,06902,2003,Philadelphia,Savings and Loan Holding Company,Corporation (stock),Holding Company,FED,No
+SVB FINANCIAL GROUP,1031449,3003 TASMAN DRIVE,SANTA CLARA,CA,95054,1983,San Francisco,Financial Holding Company - Domestic,Corporation (stock),Holding Company,FED,No
+COMERICA INCORPORATED,1199844,1717 MAIN STREET MC-6506,DALLAS,TX,75201,1973,Dallas,Financial Holding Company - Domestic,Corporation (stock),Holding Company,FED,No
+E*TRADE FINANCIAL CORPORATION,3412583,671 NORTH GLEBE ROAD,ARLINGTON,VA,22203,2000,Richmond,Savings and Loan Holding Company,Corporation (stock),Holding Company,FED,No
+"POPULAR, INC.",1129382,209 MUNOZ RIVERA AVENUE,SAN JUAN,PR,00918,1985,New York,Financial Holding Company - Domestic,Corporation (stock),Holding Company,FED,No
+CIT GROUP INC.,1036967,1 CIT DRIVE,LIVINGSTON,NJ,07039,1924,New York,Financial Holding Company - Domestic,Corporation (stock),Holding Company,FED,No
+"PEOPLE'S UNITED FINANCIAL, INC.",3650152,850 MAIN STREET,BRIDGEPORT,CT,06604,2007,New York,Financial Holding Company - Domestic,Corporation (stock),Holding Company,FED,No
+"NEW YORK COMMUNITY BANCORP, INC.",2132932,615 MERRICK AVENUE,WESTBURY,NY,11590,1993,New York,Bank Holding Company,Corporation (stock),Holding Company,FED,No
+SYNOVUS FINANCIAL CORP.,1078846,1111 BAY AVENUE,COLUMBUS,GA,319012751,1972,Atlanta,Financial Holding Company - Domestic,Corporation (stock),Holding Company,FED,No
+CIBC BANCORP USA INC.,5014141,120 SOUTH LA SALLE STREET,CHICAGO,IL,60603,2016,Chicago,Financial Holding Company - Domestic,Corporation (stock),Holding Company,FED,No
+TCF FINANCIAL CORPORATION,1201934,"333 WEST FORT STREET, SUITE 1800",DETROIT,MI,48226,1974,Chicago,Financial Holding Company - Domestic,Corporation (stock),Holding Company,FED,No
+"EAST WEST BANCORP, INC.",2734233,"135 NORTH LOS ROBLES AVENUE, 7TH FLOOR",PASADENA,CA,91101,1998,San Francisco,Financial Holding Company - Domestic,Corporation (stock),Holding Company,FED,No
+FIRST HORIZON NATIONAL CORPORATION,1094640,165 MADISON AVENUE,MEMPHIS,TN,38103,1969,St. Louis,Financial Holding Company - Domestic,Corporation (stock),Holding Company,FED,No
+"FIRST CITIZENS BANCSHARES, INC.",1075612,4300 SIX FORKS ROAD,RALEIGH,NC,27609,1982,Richmond,Financial Holding Company - Domestic,Corporation (stock),Holding Company,FED,No
+MIZUHO AMERICAS LLC,5034792,1271 AVENUE OF THE AMERICAS,NEW YORK,NY,10020,2016,New York,Financial Holding Company - Domestic,Limited liability company/corporation,Holding Company,FED,No
+BOK FINANCIAL CORPORATION,1883693,1 WILLIAMS CTR,TULSA,OK,74172,1991,Kansas City,Financial Holding Company - Domestic,Corporation (stock),Holding Company,FED,No
+"RAYMOND JAMES FINANCIAL, INC.",3815157,880 CARILLON PARKWAY,SAINT PETERSBURG,FL,33716,1994,Atlanta,Financial Holding Company - Domestic,Corporation (stock),Holding Company,FED,No
+WINTRUST FINANCIAL CORPORATION,2260406,9700 WEST HIGGINS ROAD,ROSEMONT,IL,60018,1994,Chicago,Financial Holding Company - Domestic,Corporation (stock),Holding Company,FED,No
+VALLEY NATIONAL BANCORP,1048773,ONE PENN PLAZA,NEW YORK,NY,10119,1983,New York,Bank Holding Company,Corporation (stock),Holding Company,FED,No
+JOHN DEERE CAPITAL CORPORATION,3843075,"10587 DOUBLE R BOULEVARD, SUITE 100",RENO,NV,89521,2000,Chicago,Savings and Loan Holding Company,Corporation (stock),Other nondepository institution,FED,No
+"CULLEN/FROST BANKERS, INC.",1102367,111 WEST HOUSTON STREET,SAN ANTONIO,TX,78205,1969,Dallas,Financial Holding Company - Domestic,Corporation (stock),Holding Company,FED,No
+F.N.B. CORPORATION,3005332,ONE NORTH SHORE CENTER,PITTSBURGH,PA,15212,2001,Cleveland,Financial Holding Company - Domestic,Corporation (stock),Holding Company,FED,No
+SOUTH STATE CORPORATION,1133437,1101 FIRST STREET SOUTH,WINTER HAVEN,FL,33880,1985,Atlanta,Financial Holding Company - Domestic,Corporation (stock),Holding Company,FED,No
+"TEXAS CAPITAL BANCSHARES, INC.",2706735,"2000 MCKINNEY AVENUE, SUITE 700",DALLAS,TX,75201,1998,Dallas,Financial Holding Company - Domestic,Corporation (stock),Holding Company,FED,No
+ASSOCIATED BANC-CORP,1199563,433 MAIN STREET,GREEN BAY,WI,54301,1970,Chicago,Bank Holding Company,Corporation (stock),Holding Company,FED,No
+"BANKUNITED, INC.",4028712,14817 OAK LANE,MIAMI LAKES,FL,33016,2009,Atlanta,Bank Holding Company,Corporation (stock),Holding Company,FED,No
+IBERIABANK CORPORATION,2291914,200 WEST CONGRESS ST,LAFAYETTE,LA,70501,1995,Atlanta,Financial Holding Company - Domestic,Corporation (stock),Holding Company,FED,No
+"PINNACLE FINANCIAL PARTNERS, INC.",2925657,150 3RD AVENUE SOUTH,NASHVILLE,TN,37201,2000,Atlanta,Financial Holding Company - Domestic,Corporation (stock),Holding Company,FED,No
+HANCOCK WHITNEY CORPORATION,1086533,HANCOCK WHITNEY PLAZA,GULFPORT,MS,39501,1984,Atlanta,Financial Holding Company - Domestic,Corporation (stock),Holding Company,FED,No
+"PROSPERITY BANCSHARES, INC.",1109599,4295 SAN FELIPE,HOUSTON,TX,77027,1984,Dallas,Financial Holding Company - Domestic,Corporation (stock),Holding Company,FED,No
+WEBSTER FINANCIAL CORPORATION,1145476,145 BANK STREET,WATERBURY,CT,06702,1986,Boston,Financial Holding Company - Domestic,Corporation (stock),Holding Company,FED,No
+WESTERN ALLIANCE BANCORPORATION,2349815,"ONE EAST WASHINGTON STREET, SUITE 1400",PHOENIX,AZ,85004,1996,San Francisco,Bank Holding Company,Corporation (stock),Holding Company,FED,No
+STERLING BANCORP,3083291,400 RELLA BOULEVARD,MONTEBELLO,NY,10901,2004,New York,Financial Holding Company - Domestic,Corporation (stock),Holding Company,FED,No
+"COMMERCE BANCSHARES, INC.",1049341,1000 WALNUT,KANSAS CITY,MO,64106,1967,Kansas City,Bank Holding Company,Corporation (stock),Holding Company,FED,No
+UMB FINANCIAL CORPORATION,1049828,1010 GRAND BOULEVARD,KANSAS CITY,MO,64106,1969,Kansas City,Financial Holding Company - Domestic,Corporation (stock),Holding Company,FED,No
+UMPQUA HOLDINGS CORPORATION,2747644,"ONE SOUTHWEST COLUMBIA STREET, S-1200",PORTLAND,OR,97258,1999,San Francisco,Financial Holding Company - Domestic,Corporation (stock),Holding Company,FED,No
+"FLAGSTAR BANCORP, INC.",3852022,5151 CORPORATE DRIVE,TROY,MI,48098,1993,Chicago,Savings and Loan Holding Company,Corporation (stock),Holding Company,FED,No
+PACWEST BANCORP,2875332,"9701 WILSHIRE BOULEVARD, SUITE 700",BEVERLY HILLS,CA,90212,2000,San Francisco,Bank Holding Company,Corporation (stock),Holding Company,FED,No
+"INVESTORS BANCORP, INC.",2477754,101 JFK PARKWAY,SHORT HILLS,NJ,07078,1997,New York,Bank Holding Company,Corporation (stock),Holding Company,FED,No
+"UNITED BANKSHARES, INC.",1076217,"300 UNITED CENTER, 500 VIRGINIA STREET E",CHARLESTON,WV,25301,1984,Richmond,Financial Holding Company - Domestic,Corporation (stock),Holding Company,FED,No
+STIFEL FINANCIAL CORP.,3063622,501 NORTH BROADWAY,SAINT LOUIS,MO,631022110,2007,St. Louis,Financial Holding Company - Domestic,Corporation (stock),Holding Company,FED,No
+"SMBC AMERICAS HOLDINGS, INC.",2170804,277 PARK AVENUE,NEW YORK,NY,10172,1990,New York,Bank Holding Company,Corporation (stock),Holding Company,FED,No
+FULTON FINANCIAL CORPORATION,1117129,ONE PENN SQUARE,LANCASTER,PA,17602,1982,Philadelphia,Financial Holding Company - Domestic,Corporation (stock),Holding Company,FED,No
+MIDLAND FINANCIAL CO.,2568278,501 NW GRAND BLVD,OKLAHOMA CITY,OK,73118,1997,Kansas City,Savings and Loan Holding Company,Corporation (stock),Holding Company,FED,Yes
+"FIRST NATIONAL OF NEBRASKA, INC.",1020902,1620 DODGE STREET,OMAHA,NE,68102,1969,Kansas City,Financial Holding Company - Domestic,Corporation (stock),Holding Company,FED,No
+"ARVEST BANK GROUP, INC.",1095674,"110 NORTHWEST 2ND STREET, SUITE 300",BENTONVILLE,AR,72712,1978,St. Louis,Bank Holding Company,Corporation (stock),Holding Company,FED,No
+"FIRST HAWAIIAN, INC.",1025608,999 BISHOP STREET,HONOLULU,HI,96813,1974,San Francisco,Financial Holding Company - Domestic,Corporation (stock),Holding Company,FED,No
+FIRSTBANK HOLDING COMPANY,1060627,12345 W COLFAX AVENUE,LAKEWOOD,CO,80215,1981,Kansas City,Financial Holding Company - Domestic,Corporation (stock),Holding Company,FED,No
+OLD NATIONAL BANCORP,1098303,ONE MAIN STREET,EVANSVILLE,IN,47708,1983,St. Louis,Financial Holding Company - Domestic,Corporation (stock),Holding Company,FED,No
+SIMMONS FIRST NATIONAL CORPORATION,1094828,501 MAIN STREET,PINE BLUFF,AR,71601,1968,St. Louis,Financial Holding Company - Domestic,Corporation (stock),Holding Company,FED,No
+"FIRST MIDWEST BANCORP, INC.",1208184,"8750 WEST BRYN MAWR AVENUE, SUITE 1300",CHICAGO,IL,60631,1983,Chicago,Bank Holding Company,Corporation (stock),Holding Company,FED,No
+"PACIFIC PREMIER BANCORP, INC.",3489594,"17901 VON KARMAN AVENUE, SUITE 1200",IRVINE,CA,92614,2007,San Francisco,Bank Holding Company,Corporation (stock),Holding Company,FED,No
+AMERIS BANCORP,1082067,3490 PIEDMONT ROAD NORTH EAST,ATLANTA,GA,30305,1981,Atlanta,Financial Holding Company - Domestic,Corporation (stock),Holding Company,FED,No
+BANK OF HAWAII CORPORATION,1025309,"130 MERCHANT STREET, 22ND FLOOR",HONOLULU,HI,96813,1972,San Francisco,Bank Holding Company,Corporation (stock),Holding Company,FED,No
+ATLANTIC UNION BANKSHARES CORPORATION,1971693,1051 EAST CARY STREET SUITE 1200,RICHMOND,VA,23219,1992,Richmond,Financial Holding Company - Domestic,Corporation (stock),Holding Company,FED,No
+CATHAY GENERAL BANCORP,1843080,777 NORTH BROADWAY,LOS ANGELES,CA,90012,1990,San Francisco,Bank Holding Company,Corporation (stock),Holding Company,FED,No
+EB ACQUISITION COMPANY II LLC,5375459,200 CRESCENT COURT SUITE 1350,DALLAS,TX,75201,2019,Dallas,Bank Holding Company,Limited liability company/corporation,Holding Company,FED,No
+"EB ACQUISITION COMPANY, LLC",4759669,200 CRESCENT COURT,DALLAS,TX,75201,2015,Dallas,Bank Holding Company,Limited liability company/corporation,Holding Company,FED,No
+CADENCE BANCORPORATION,4882802,"2800 POST OAK BOULEVARD, SUITE 3800",HOUSTON,TX,77056,2015,Dallas,Financial Holding Company - Domestic,Corporation (stock),Holding Company,FED,No
+"WASHINGTON FEDERAL, INC.",3065617,"425 PIKE STREET, 3RD FLOOR",SEATTLE,WA,98101,1995,San Francisco,Bank Holding Company,Corporation (stock),Holding Company,FED,No
+"CUSTOMERS BANCORP, INC",4284536,1015 PENN AVENUE,WYOMISSING,PA,19610,2011,Philadelphia,Bank Holding Company,Corporation (stock),Holding Company,FED,No
+"BCI FINANCIAL GROUP, INC.",3762457,1450 BRICKELL AVENUE,MIAMI,FL,33131,2008,Atlanta,Financial Holding Company - Domestic,Corporation (stock),Holding Company,FED,No
+"CENTRAL BANCOMPANY, INC",1094314,238 MADISON STREET,JEFFERSON CITY,MO,65101,1971,St. Louis,Bank Holding Company,Corporation (stock),Holding Company,FED,No
