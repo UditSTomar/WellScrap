@@ -1,0 +1,448 @@
+company_name,RSSD_ID,RefinedAddress,City,State,Pin,webAddress,YearOpened,FiduciaryPowers,EntityType,PowersExercised,MemberFederalReserve,InstitutionType,FederalRegulator,S-Corp,Specialization
+First Bank & Trust,550756,110 North Minnesota Avenue,Sioux Falls,South Dakota,57104,www.bankeasy.com,1987,Yes,State,Yes,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+First Bank & Trust,77851,520 6th Street,Brookings,South Dakota,57006,www.bankeasy.com,1925,Yes,State,Yes,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Loomis Federal Savings and Loan Association,450472,6350 West 63rd Street,Chicago,Illinois,60638,,1929,No,Federal,No,No,Savings Association,OCC,No,Other Specialized Lending < 1 Billion
+Hoyne Savings Bank,447070,4786 Milwaukee Avenue,Chicago,Illinois,60630,www.hoyne.com,1887,No,State,No,No,Savings bank,FDIC,No,Mortgage Lending Specialization
+Peoples Bank Midwest,456157,10583 Main Street,Hayward,Wisconsin,54843,www.pbmbank.com,1925,No,State,No,Yes,Commercial bank,FED,Yes,Commercial Lending Specialization
+Frandsen Bank & Trust,751656,116 Central Street West,Lonsdale,Minnesota,55046,frandsenbank.com,1901,Yes,State,Yes,Yes,Commercial bank,FED,Yes,Commercial Lending Specialization
+First City Bank of Florida,695134,"135 Perry Avenue, S.E.",Fort Walton Beach,Florida,32548,www.firstcitybank.com,1948,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+"United Fidelity Bank, fsb",391575,18 Nw Fourth Street,Evansville,Indiana,47708,www.unitedfidelity.com,1931,No,Federal,No,No,Savings Association,OCC,No,All Other Specialization  > 1 Billion
+Community Shores Bank,2735324,1030 West Norton Avenue,Muskegon,Michigan,49441,www.communityshores.com,1999,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+ChoiceOne Bank,324340,109 E Division St,Sparta,Michigan,49345,www.choiceone.com,1898,Yes,State,Yes,Yes,Commercial bank,FED,No,Commercial Lending Specialization
+Executive National Bank,1002430,9600 North Kendall Drive,Miami,Florida,33176,executivebank.com,1972,No,Federal,No,Yes,Commercial bank,OCC,No,Commercial Lending Specialization
+City National Bank of Florida,814430,25 West Flagler Street,Miami,Florida,33101,www.citynational.com,1970,Yes,Federal,Yes,Yes,Commercial bank,OCC,No,Commercial Lending Specialization
+"State Farm Bank, F.S.B.",2590037,One State Farm Plaza E-6,Bloomington,Illinois,61710,www.statefarm.com/finances/banking,1999,No,Federal,No,No,Savings Association,OCC,No,Consumer Lending Specialization
+U.S. Bank National Association,504713,425 Walnut Street,Cincinnati,Ohio,45202,www.usbank.com,1863,Yes,Federal,Yes,Yes,Commercial bank,OCC,No,Commercial Lending Specialization
+Beartooth Bank,3425725,4130 King Avenue West,Billings,Montana,59106,www.beartoothbank.com,2006,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+American Bank Center,971959,140 1st Avenue West,Dickinson,North Dakota,58601,,1977,Yes,State,Yes,No,Commercial bank,FDIC,No,Agricultural  Specialization
+Mansfield Co-operative Bank,163370,80 North Main Street,Mansfield,Massachusetts,2048,,1883,No,State,No,Yes,Commercial bank,FED,No,Commercial Lending Specialization
+Bridgewater Savings Bank,699105,756 Orchard Street,Raynham,Massachusetts,2767,www.bridgewatersavings.com,1872,Yes,State,Yes,Yes,Commercial bank,FED,No,Commercial Lending Specialization
+Eagle State Bank,252256,600 South Fourth Street,Eagle,Nebraska,68347,www.eaglestatebank.com,1974,No,State,No,No,Commercial bank,FDIC,Yes,Agricultural  Specialization
+Tri Valley Bank,388557,223 Main Street,Talmage,Nebraska,68448,www.banktrivalley.com,1884,No,State,No,No,Commercial bank,FDIC,Yes,Agricultural  Specialization
+Fort Hood National Bank,305750,Tj Mills Boulevard Building 109,Fort Hood,Texas,76544,www.fhnb.com,1966,No,Federal,No,Yes,Commercial bank,OCC,Yes,Other Specialized Lending < 1 Billion
+First National Bank Texas,613950,507 North Gray Street,Killeen,Texas,76541,www.1stnb.com,1901,No,Federal,No,Yes,Commercial bank,OCC,Yes,All Other Specialization  > 1 Billion
+Carroll Community Bank,395274,1321 Liberty Road,Sykesville,Maryland,21784,www.carrollcobank.com,1904,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Farmers and Merchants Bank,891226,15226 Hanover Pike,Upperco,Maryland,21155,,1919,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Bank of New Castle,1404940,12 Read's Way,New Castle,Delaware,19720,,1989,No,State,No,No,Commercial bank,FDIC,No,All Other Specialization  < 1 Billion
+Discover Bank,30810,502 E. Market Street,Greenwood,Delaware,19950,www.discover.com,1911,No,State,No,No,Commercial bank,FDIC,No,Credit-Card   Specialization
+Peoples Bank,278153,445 South Lewis Avenue,Tulsa,Oklahoma,74150,https://www.peoplesbanktulsa.com,1907,No,State,No,No,Commercial bank,FDIC,Yes,Commercial Lending Specialization
+American Heritage Bank,311050,2 South Main Street,Sapulpa,Oklahoma,74066,,1905,Yes,State,Yes,Yes,Commercial bank,FED,Yes,All Other Specialization  > 1 Billion
+The Poplar Grove State Bank,808448,109 North State Street,Poplar Grove,Illinois,61065,poplargrovestatebank.com,1946,No,State,No,No,Commercial bank,FDIC,Yes,Agricultural  Specialization
+Forreston State Bank,927134,200 Main Street,Forreston,Illinois,61030,www.fsbil.com,1887,No,State,No,No,Commercial bank,FDIC,Yes,Agricultural  Specialization
+Stock Growers Bank,1009055,324 Main Avenue,Napoleon,North Dakota,58561,,1900,No,State,No,No,Commercial bank,FDIC,Yes,Agricultural  Specialization
+Sargent County Bank,992851,331 Main Street Sw,Forman,North Dakota,58032,https://www.sargentcountybank.com,1900,No,State,No,No,Commercial bank,FDIC,Yes,Agricultural  Specialization
+Prime Bank,3660478,1016 West Covell Rd,Edmond,Oklahoma,73003,,2008,No,State,No,Yes,Commercial bank,FED,Yes,Commercial Lending Specialization
+TINKER FEDERAL CREDIT UNION,220590,PO BOX 45750,OKLAHOMA CITY,OK,73145,,1946,,,,,Credit Union,NCUA,,
+"Vast Bank, National Association",347956,110 N. Elgin Avenue,Tulsa,Oklahoma,74120,,1982,No,Federal,No,Yes,Commercial bank,OCC,No,Commercial Lending Specialization
+Armstrong Bank,470452,1215 W Okmulgee St,Muskogee,Oklahoma,74401,,1910,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Banco Santander Puerto Rico,816210,207 Ponce De Leon Avenue,San Juan,Puerto Rico,917,,1972,Yes,State,Yes,No,Commercial bank,FDIC,No,All Other Specialization  > 1 Billion
+FirstBank Puerto Rico,510871,1519 Ave Ponce De Leon,Santurce,Puerto Rico,909,www.1firstbank.com,1949,Yes,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Advantage Community Bank,189549,101 W Business County Road A,Dorchester,Wisconsin,54425,www.advantagecommunity.com,1906,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Nicolet National Bank,2941068,111 N. Washington Street,Green Bay,Wisconsin,54301,www.nicoletbank.com,2000,Yes,Federal,Yes,Yes,Commercial bank,OCC,No,Commercial Lending Specialization
+Farmers Bank of Lincoln,742355,Main And Highway 65,Lincoln,Missouri,65338,www.fblmo.com,1890,No,State,No,Yes,Commercial bank,FED,Yes,All Other Specialization  < 1 Billion
+Community National Bank & Trust,923752,14 North Lincoln Avenue,Chanute,Kansas,66720,www.mybankcnb.com,1987,Yes,Federal,Yes,Yes,Commercial bank,OCC,No,Commercial Lending Specialization
+Freedom Bank,3345065,1200 4th Street North,Saint Petersburg,Florida,33701,www.freedombank.com,2005,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Seacoast National Bank,34537,815 Colorado Ave,Stuart,Florida,34994,www.seacoastbank.com,1933,Yes,Federal,Yes,Yes,Commercial bank,OCC,No,Commercial Lending Specialization
+"First American Bank, N.A.",3595682,2424 Monetary Blvd.,Hudson,Wisconsin,54016,,2007,No,Federal,No,Yes,Commercial bank,OCC,No,Commercial Lending Specialization
+Hiawatha National Bank,505550,N 1555 770th Street,Hager City,Wisconsin,54014,www.hnbank.com,1917,No,Federal,No,Yes,Commercial bank,OCC,No,Commercial Lending Specialization
+The Farmers & Merchants Bank,70058,110 South Main Street,Dyer,Tennessee,38330,www.dyerfmbank.com,1895,Yes,State,Yes,No,Commercial bank,FDIC,Yes,Other Specialized Lending < 1 Billion
+Security Bank and Trust Company,118156,210 West Washington Street,Paris,Tennessee,38242,www.securitybanktn.com,1905,Yes,State,No,No,Commercial bank,FDIC,Yes,Commercial Lending Specialization
+Bank of Laverne,85454,111 East Jane Jayroe Boulevard,Laverne,Oklahoma,73848,www.bankoflaverne.com,1922,No,State,No,No,Commercial bank,FDIC,No,Agricultural  Specialization
+Security State Bank,58551,402 Broadway,Cheyenne,Oklahoma,73628,www.ssbcheyenne.com,1912,No,State,No,No,Commercial bank,FDIC,Yes,Agricultural  Specialization
+Franklin Synergy Bank,3635533,722 Columbia Avenue,Franklin,Tennessee,37064,www.franklinsynergybank.com,2007,Yes,State,Yes,Yes,Commercial bank,FED,No,Commercial Lending Specialization
+FirstBank,436159,"211 Commerce Street, Suite 300",Nashville,Tennessee,37201,www.firstbankonline.com,1906,Yes,State,Yes,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Union Bank of Blair,506052,123 Urberg Street,Blair,Wisconsin,54616,www.unionbankofblair.com,1899,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Waumandee State Bank,780955,S2021 County Road U,Waumandee,Wisconsin,54622,www.waumandeebank.com,1914,No,State,No,No,Commercial bank,FDIC,No,Agricultural  Specialization
+Bank of Bolivar,2535560,495 South Springfield Avenue,Bolivar,Missouri,65613,bankofbolivarmo.com,1997,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+The Bank of Missouri,330855,916 North Kings Highway,Perryville,Missouri,63775,,1891,Yes,State,Yes,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+SB One Bank,403106,399 Route 23,Franklin,New Jersey,7416,,1976,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Provident Bank,204004,Washington And York Streets,Jersey City,New Jersey,7303,,1839,Yes,State,Yes,No,Savings bank,FDIC,No,Commercial Lending Specialization
+Freedom National Bank,3051432,584 Putnam Pike,Greenville,Rhode Island,2828,www.freedomnationalbank.com,2001,No,Federal,No,Yes,Commercial bank,OCC,No,Commercial Lending Specialization
+Bristol County Savings Bank,13103,35 Broadway,Taunton,Massachusetts,2780,www.bristolcountysavings.com,1846,Yes,State,Yes,No,Savings bank,FDIC,No,Commercial Lending Specialization
+Victor State Bank,616849,201 Washington Street,Victor,Iowa,52347,victorstatebank.com,1928,Yes,State,Yes,No,Commercial bank,FDIC,Yes,Agricultural  Specialization
+Chelsea Savings Bank,771748,601 13th St,Belle Plaine,Iowa,52208,www.chelseasavingsbank.com,1936,Yes,State,Yes,No,Commercial bank,FDIC,Yes,Agricultural  Specialization
+Bank of Akron,452104,46 Main Street,Akron,New York,14001,www.bankofakron.com,1900,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+CNB Bank,399517,One South Second Street,Clearfield,Pennsylvania,16830,,1934,Yes,State,Yes,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+South Porte Bank,807946,701 North Court Street,Marion,Illinois,62959,www.southportebank.com,1956,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+SouthernTrust Bank,3316739,101 North Broadway,Goreville,Illinois,62939,www.southerntrustbank.com,2005,No,State,No,No,Commercial bank,FDIC,No,All Other Specialization  < 1 Billion
+State Bank of Burnettsville,225241,324 South Main Street,Burnettsville,Indiana,47926,www.bvillebank.com,1902,Yes,State,Yes,No,Commercial bank,FDIC,No,All Other Specialization  < 1 Billion
+The Fountain Trust Company,145844,615 3rd St,Covington,Indiana,47932,www.fountaintrust.com,1903,Yes,State,Yes,No,Commercial bank,FDIC,No,Agricultural  Specialization
+Millington Bank,793571,1902 Long Hill Road,Millington,New Jersey,7946,www.millingtonbank.com,1911,No,State,No,No,Savings bank,FDIC,No,Commercial Lending Specialization
+Kearny Bank,633378,614 Kearny Avenue,Kearny,New Jersey,7032,www.kearnybank.com,1884,No,State,No,No,Savings bank,FDIC,No,Commercial Lending Specialization
+USNY Bank,3620922,389 Hamilton Street,Geneva,New York,14456,www.usnybank.com,2007,No,State,No,No,Commercial bank,FDIC,No,Agricultural  Specialization
+Wayne Bank,59316,717 Main St,Honesdale,Pennsylvania,18431,www.waynebank.com,1871,Yes,State,Yes,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+First State Bank of Claremont,99255,7 East Highway 12,Groton,South Dakota,57445,fsbclaremont.com,1903,No,State,No,No,Commercial bank,FDIC,Yes,Agricultural  Specialization
+Dacotah Bank,256553,308 South Main Street,Aberdeen,South Dakota,57401,www.dacotahbank.com,1955,Yes,State,Yes,Yes,Commercial bank,FED,No,Agricultural  Specialization
+Iberiabank,808176,200 West Congress Street,Lafayette,Louisiana,70501,https://www.iberiabank.com,1887,Yes,State,Yes,Yes,Commercial bank,FED,No,Commercial Lending Specialization
+First Horizon Bank,485559,165 Madison Avenue,Memphis,Tennessee,38103,https://www.firsthorizon.com,1864,Yes,State,Yes,Yes,Commercial bank,FED,No,Commercial Lending Specialization
+Centennial Bank,973364,904 Avenue O,Lubbock,Texas,79401,www.bankoncb.com,1934,Yes,State,Yes,No,Commercial bank,FDIC,Yes,Commercial Lending Specialization
+Happy State Bank,466857,100 East Main Street,Happy,Texas,79042,www.happybank.com,1908,Yes,State,Yes,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Victory State Bank,2631323,4142 Hylan Boulevard,Staten Island,New York,10308,www.victorystatebank.com,1997,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Northfield Bank,28013,1731 Victory Blvd,Staten Island,New York,10314,www.enorthfield.com,1887,No,Federal,No,No,Savings Association,OCC,No,Commercial Lending Specialization
+The First National Bank of Manchester,290230,100 West High Street,Manchester,Tennessee,37355,www.fnbmwm.com,1900,No,Federal,No,Yes,Commercial bank,OCC,No,Commercial Lending Specialization
+CapStar Bank,3715444,1201 Demonbreun St,Nashville,Tennessee,37203,www.capstarbank.com,2008,Yes,State,No,Yes,Commercial bank,FED,No,Commercial Lending Specialization
+Traders & Farmers Bank,390336,819 20th St,Haleyville,Alabama,35565,www.tradersandfarmersbank.com,1906,No,State,No,No,Commercial bank,FDIC,No,All Other Specialization  < 1 Billion
+BankFirst Financial Services,914648,900 Main St,Columbus,Mississippi,39701,www.bankfirstfs.com,1888,No,State,No,Yes,Commercial bank,FED,No,Commercial Lending Specialization
+The First National Bank of Brundidge,465337,137 South Main Street,Brundidge,Alabama,36010,www.f-n-b.com,1904,No,Federal,No,Yes,Commercial bank,OCC,No,Agricultural  Specialization
+Troy Bank & Trust Company,134437,1000 Highway 231 S,Troy,Alabama,36081,www.troybankandtrust.com,1906,Yes,State,Yes,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+The Bank of Waynesboro,505831,201 South Main Street,Waynesboro,Tennessee,38485,www.thebankofwaynesboro.com,1904,Yes,State,Yes,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+CapStar Bank,3715444,1201 Demonbreun St,Nashville,Tennessee,37203,www.capstarbank.com,2008,Yes,State,No,Yes,Commercial bank,FED,No,Commercial Lending Specialization
+Seaside National Bank & Trust,3487518,201 South Orange Avenue,Orlando,Florida,32801,www.seasidebank.com,2006,Yes,Federal,Yes,Yes,Commercial bank,OCC,No,Commercial Lending Specialization
+United Community Bank,1017939,177 Highway 515 East,Blairsville,Georgia,30512,www.ucbi.com,1950,Yes,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Covenant Bank,3540310,"1980 South Easton Road, Suite 110",Doylestown,Pennsylvania,18901,www.yourcovenantbank.com,2007,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Citizens & Northern Bank,895710,90 Main St,Wellsboro,Pennsylvania,16901,www.cnbankpa.com,1864,Yes,State,Yes,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+BEST HOMETOWN BANK,682479,100 East Clay Street,Collinsville,Illinois,62234,www.besthometownbank.com,1887,No,Federal,No,No,Savings Association,OCC,No,Commercial Lending Specialization
+First National Bank of Waterloo,145545,228 S Main St,Waterloo,Illinois,62298,www.fnbwaterloo.com,1912,No,Federal,No,Yes,Commercial bank,OCC,No,Commercial Lending Specialization
+Park Bank,200640,330 East Kilbourn Avenue,Milwaukee,Wisconsin,53202,www.parkbankonline.com,1985,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+First Midwest Bank,1007846,8750 W Bryn Mawr Ave,Chicago,Illinois,60631,www.firstmidwest.com,1933,Yes,State,Yes,Yes,Commercial bank,FED,No,Commercial Lending Specialization
+Center Point Bank and Trust Company,862945,901 Bank Court,Center Point,Iowa,52213,www.centerpointbank.com,1964,Yes,State,No,No,Commercial bank,FDIC,No,All Other Specialization  < 1 Billion
+Hiawatha Bank and Trust Company,2536633,777 N Center Point Rd,Hiawatha,Iowa,52233,www.hiawathabank.com,1997,Yes,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Steuben Trust Company,929802,One Steuben Square,Hornell,New York,14843,www.mysteubentrust.com,1902,Yes,State,Yes,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+"Community Bank, National Association",202907,45-49 Court Street,Canton,New York,13617,www.communitybankna.com,1866,Yes,Federal,Yes,Yes,Commercial bank,OCC,No,All Other Specialization  > 1 Billion
+Community National Bank,3121308,901 East Highway 60,Monett,Missouri,65708,cnbbanking.com,2002,No,Federal,No,Yes,Commercial bank,OCC,Yes,All Other Specialization  < 1 Billion
+Freedom Bank of Southern Missouri,2835103,97 South Main,Cassville,Missouri,65625,www.freedombk.com,1999,No,State,No,No,Commercial bank,FDIC,Yes,Agricultural  Specialization
+South State Bank,540926,520 Gervais Street,Columbia,South Carolina,29201,www.southstatebank.com,1934,Yes,State,Yes,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+"South State Bank, National Association",1929247,1101 1st St S,Winter Haven,Florida,33880,www.centerstatebank.com,1992,Yes,Federal,Yes,Yes,Commercial bank,OCC,No,Commercial Lending Specialization
+New Buffalo Savings Bank,294676,45 North Whittaker St,New Buffalo,Michigan,49117,www.newbuffalosavings.com,1921,No,Federal,No,No,Savings Association,OCC,No,Commercial Lending Specialization
+TEACHERS CREDIT UNION,275590,110 S MAIN ST,SOUTH BEND,IN,46601-1805,http://WWW.TCUNET.com,1931,,,,,Credit Union,NCUA,,
+Walcott Trust and Savings Bank,495044,101 West Bryant Street,Walcott,Iowa,52773,www.walcottbank.com,1931,Yes,State,Yes,No,Commercial bank,FDIC,No,Agricultural  Specialization
+CBI Bank & Trust,830542,301 Iowa Ave,Muscatine,Iowa,52761,www.cbibt.com,1933,Yes,State,Yes,Yes,Commercial bank,FED,No,Agricultural  Specialization
+"The Edon State Bank Company of Edon, Ohio",804815,101 North Michigan Street,Edon,Ohio,43518,www.edonstatebank.com,1893,No,State,No,No,Commercial bank,FDIC,Yes,Agricultural  Specialization
+The State Bank and Trust Company,614313,401 Clinton Street,Defiance,Ohio,43512,www.yourstatebank.com,1902,Yes,State,Yes,Yes,Commercial bank,FED,No,Commercial Lending Specialization
+Columbia Bank,216632,173 Northwest Hillsboro Street,Lake City,Florida,32055,www.columbiabankflorida.com,1912,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Millennium Bank,2820604,6392 Artesian Circle,Ooltewah,Tennessee,37363,www.millenniumbank.com,1999,Yes,State,No,No,Commercial bank,FDIC,Yes,Commercial Lending Specialization
+Wellesley Bank,278078,40 Central Street,Wellesley,Massachusetts,2482,www.wellesleybank.com,1911,No,State,No,No,Savings bank,FDIC,No,Commercial Lending Specialization
+Cambridge Trust Company,736206,1336 Massachusetts Ave,Cambridge,Massachusetts,2138,,1890,Yes,State,Yes,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Melrose Bank,338178,638 Main Street,Melrose,Massachusetts,2176,melrosebank.com,1890,No,State,No,No,Savings bank,FDIC,No,Mortgage Lending Specialization
+Cambridge Savings Bank,758703,1374 Massachusetts Ave,Cambridge,Massachusetts,2138,www.cambridgesavings.com,1834,Yes,State,Yes,No,Savings bank,FDIC,No,Commercial Lending Specialization
+"West End Bank, S.B.",577472,34 S 7th Street,Richmond,Indiana,47374,www.westendbank.com,1893,No,State,No,No,Savings bank,FDIC,No,Commercial Lending Specialization
+THREE RIVERS FEDERAL CREDIT UNION,899576,PO BOX 2573,FORT WAYNE,IN,46801,,1935,,,,,Credit Union,NCUA,,
+Opus Bank,2047504,"19900 Macarthur Blvd., 12th Floor",Irvine,California,92612,www.opusbank.com,1993,Yes,State,Yes,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Pacific Premier Bank,431172,17901 Von Karman Ave,Irvine,California,92614,www.ppbi.com,1983,Yes,State,Yes,Yes,Commercial bank,FED,No,Commercial Lending Specialization
+Calwest Bank,2854494,22342 Avenida Empresa,Rancho Santa Margarita,California,92688,www.calwestbancorp.com,1999,No,State,No,Yes,Commercial bank,FED,No,Commercial Lending Specialization
+"Bank of Southern California, N.A.",3076453,12265 El Camino Real,San Diego,California,92130,www.banksocal.com,2001,No,Federal,No,Yes,Commercial bank,OCC,No,Commercial Lending Specialization
+Central Federal Savings and Loan Association of Rolla,544577,210 W 10th St,Rolla,Missouri,65401,www.centralfederal.com,1952,No,Federal,No,No,Savings Association,OCC,No,Commercial Lending Specialization
+Southern Bank,272272,2991 Oak Grove Rd,Poplar Bluff,Missouri,63901,www.bankwithsouthern.com,1887,No,State,No,Yes,Commercial bank,FED,No,Commercial Lending Specialization
+Dearborn Savings Bank,738572,595 West Eads Parkway,Lawrenceburg,Indiana,47025,www.dearbornsavings.com,1891,No,Federal,No,No,Savings Association,OCC,No,Commercial Lending Specialization
+"FCN Bank, National Association",321947,501 Main St,Brookville,Indiana,47012,www.fcnbank.com,1900,Yes,Federal,Yes,Yes,Commercial bank,OCC,No,Commercial Lending Specialization
+Lakestone Bank & Trust,184142,83 West Nepessing Street,Lapeer,Michigan,48446,,1902,Yes,State,Yes,Yes,Commercial bank,FED,No,Commercial Lending Specialization
+ChoiceOne Bank,324340,109 E Division St,Sparta,Michigan,49345,www.choiceone.com,1898,Yes,State,Yes,Yes,Commercial bank,FED,No,Commercial Lending Specialization
+"First Citizens Bank of Polson, National Association",620752,213 First Street West,Polson,Montana,59860,www.thehometownbank.com,1974,No,Federal,No,Yes,Commercial bank,OCC,No,Commercial Lending Specialization
+Unity Bank,443353,207 West Lincoln,Augusta,Wisconsin,54722,www.unitybanking.com,1914,No,State,No,No,Commercial bank,FDIC,Yes,Agricultural  Specialization
+The First National Bank of Northfield,782351,329 Division Street,Northfield,Minnesota,55057,www.firstnationalnorthfield.com,1872,No,Federal,No,Yes,Commercial bank,OCC,No,Commercial Lending Specialization
+"Merchants Bank, National Association",779351,100-106 East Third Street,Winona,Minnesota,55987,www.merchantsbank.com,1875,Yes,Federal,Yes,Yes,Commercial bank,OCC,No,Commercial Lending Specialization
+Timberwood Bank,962256,110 West Veterans Street,Tomah,Wisconsin,54660,https://www.timberwoodbanks.com,1907,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+"Bank First, N.A.",594947,402 N 8th St,Manitowoc,Wisconsin,54220,,1894,Yes,Federal,No,Yes,Commercial bank,OCC,No,Commercial Lending Specialization
+1st Equity Bank Northwest,3203996,1330 Dundee Road,Buffalo Grove,Illinois,60089,,2003,No,State,No,No,Commercial bank,FDIC,Yes,Commercial Lending Specialization
+1st Equity Bank,2531562,3956 West Dempster Street,Skokie,Illinois,60076,,1997,No,State,No,No,Commercial bank,FDIC,Yes,Commercial Lending Specialization
+CresCom Bank,3013823,288 Meeting Street,Charleston,South Carolina,29401,www.haveanicebank.com,2001,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+United Bank,365325,11185 Fairfax Blvd,Fairfax,Virginia,22030,www.bankwithunited.com,1979,Yes,State,Yes,Yes,Commercial bank,FED,No,Commercial Lending Specialization
+Putnam Bank,223005,40 Main Street,Putnam,Connecticut,6260,www.putnambank.com,1862,No,State,No,Yes,Commercial bank,FED,No,Commercial Lending Specialization
+Centreville Bank,876700,1218 Main Street,West Warwick,Rhode Island,2893,www.centrevillebank.com,1888,No,State,No,No,Savings bank,FDIC,No,Commercial Lending Specialization
+Washington Savings Bank,231671,2900 Comly Road,Philadelphia,Pennsylvania,19154,www.washingtonsav.com,1903,No,State,No,No,Savings bank,FDIC,No,Mortgage Lending Specialization
+William Penn Bank,664176,1309 Woodbourne Rd,Levittown,Pennsylvania,19057,,1870,No,State,No,No,Savings bank,FDIC,No,Mortgage Lending Specialization
+Ben Franklin Bank of Illinois,462774,830 East Kensington Road,Arlington Heights,Illinois,60004,www.benfrankbank.com,1893,No,Federal,No,No,Savings Association,OCC,No,Commercial Lending Specialization
+CORPORATE AMERICA FAMILY CREDIT UNION,441984,2075 Big Timber Rd,Elgin,IL,60123-1140,,1976,,,,,Credit Union,NCUA,,
+McFarland State Bank,663647,5990 Highway 51,Mc Farland,Wisconsin,53558,www.msbonline.com,1905,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Oregon Community Bank,247140,733 N Main St,Oregon,Wisconsin,53575,www.oregoncommunitybank.com,1976,No,State,No,Yes,Commercial bank,FED,No,Commercial Lending Specialization
+Fidelity Savings and Loan Association of Bucks Co,777375,237 Radcliffe St,Bristol,Pennsylvania,19007,www.fsbristol.com,1885,No,State,No,No,Savings bank,FDIC,No,Mortgage Lending Specialization
+William Penn Bank,664176,1309 Woodbourne Rd,Levittown,Pennsylvania,19057,,1870,No,State,No,No,Savings bank,FDIC,No,Mortgage Lending Specialization
+Fairport Savings Bank,798277,45 South Main St,Fairport,New York,14450,www.fairportsavingsbank.com,1888,No,State,No,No,Savings bank,FDIC,No,Mortgage Lending Specialization
+"Evans Bank, National Association",292908,8599 Erie Rd,Angola,New York,14006,https://www.evansbank.com,1920,No,Federal,No,Yes,Commercial bank,OCC,No,Commercial Lending Specialization
+Merchants Bank of Bangor,935111,25 Broadway,Bangor,Pennsylvania,18013,www.merchantsbangor.com,1890,No,State,No,Yes,Commercial bank,FED,No,Commercial Lending Specialization
+The Fidelity Deposit and Discount Bank,1007819,Blakely And Drinker Streets,Dunmore,Pennsylvania,18512,www.bankatfidelity.com,1903,Yes,State,Yes,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+PEDESTAL BANK,2760102,1300 West Tunnell Boulevard,Houma,Louisiana,70360,,1999,No,State,No,No,Commercial bank,FDIC,Yes,Commercial Lending Specialization
+b1BANK,3408728,500 Laurel Street,Baton Rouge,Louisiana,70801,www.b1bank.com,2006,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+MutualBank,810777,110 East Charles St,Muncie,Indiana,47305,www.bankwithmutual.com,1889,Yes,State,Yes,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Northwest Bank,1002878,Second At Liberty,Warren,Pennsylvania,16365,,1896,Yes,State,Yes,No,Savings bank,FDIC,No,Commercial Lending Specialization
+Bank of the Prairie,1007659,18675 West 151st Street,Olathe,Kansas,66062,www.bankoftheprairie.com,1914,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Country Club Bank,625654,1 Ward Pkwy,Kansas City,Missouri,64112,www.countryclubbank.com,1905,Yes,State,Yes,Yes,Commercial bank,FED,Yes,Commercial Lending Specialization
+Metro Bank,2496081,900 S. 12th Street,Louisville,Kentucky,40210,www.metrobankky.com,1997,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Liberty Bank and Trust Company,283438,6600 Plaza Dr,New Orleans,Louisiana,70127,,1972,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+State Bank of Belle Plaine,145750,201 West Main Street,Belle Plaine,Minnesota,56011,www.statebankbp.com,1882,No,State,No,No,Commercial bank,FDIC,Yes,Agricultural  Specialization
+First National Bank Minnesota,197759,226 Nassau St,Saint Peter,Minnesota,56082,www.fnbmn.com,1857,No,Federal,No,Yes,Commercial bank,OCC,Yes,Commercial Lending Specialization
+Century Bank,305648,116 South Blossom Street,Shenandoah,Iowa,51601,,1934,Yes,State,No,No,Commercial bank,FDIC,No,Agricultural  Specialization
+The First National Bank in Creston,214843,101 W Adams St,Creston,Iowa,50801,www.fnbcreston.com,1871,Yes,Federal,No,Yes,Commercial bank,OCC,No,Agricultural  Specialization
+Farmers State Bank of Watkins,899156,170 Meeker Ave N,Watkins,Minnesota,55389,www.fsbwatkins.com,1914,No,State,No,No,Commercial bank,FDIC,Yes,All Other Specialization  < 1 Billion
+Citizens Bank Minnesota,874050,105 N Minnesota St,New Ulm,Minnesota,56073,,1875,No,State,No,No,Commercial bank,FDIC,No,Agricultural  Specialization
+MidCoast Community Bank,3592609,4900 Kirkwood Highway,Wilmington,Delaware,19808,www.midcoastbankonline.com,2007,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+First Citizens Community Bank,978118,15 S Main St,Mansfield,Pennsylvania,16933,www.firstcitizensbank.com,1932,Yes,State,Yes,Yes,Commercial bank,FED,No,Agricultural  Specialization
+Wells Fargo Limited,167565,707 Wilshire Boulevard,Los Angeles,California,90017,www.wellsfargo.com,1985,No,State,No,No,Commercial bank,FDIC,No,Other Specialized Lending < 1 Billion
+First State Bank,750154,201 South Weatherford Street,Chico,Texas,76431,www.fsbwise.com,1958,No,State,No,No,Commercial bank,FDIC,Yes,Commercial Lending Specialization
+First National Bank,375566,3801 Fairway Blvd,Wichita Falls,Texas,76310,www.fnbwf.com,1986,No,Federal,No,Yes,Commercial bank,OCC,Yes,Commercial Lending Specialization
+Victory Community Bank,3153345,"2500 Chamber Center Drive, Suite 100",Fort Mitchell,Kentucky,41017,www.victorycommunitybank.com,2002,No,Federal,No,No,Savings Association,OCC,Yes,Mortgage Lending Specialization
+Heartland Bank,853112,430 N Hamilton Rd,Whitehall,Ohio,43213,,1911,No,State,No,Yes,Commercial bank,FED,No,Commercial Lending Specialization
+Peoples Bank & Trust Company,282048,101 North Main Street,Owenton,Kentucky,40359,www.peoplesowenton.com,1902,Yes,State,Yes,No,Commercial bank,FDIC,Yes,All Other Specialization  < 1 Billion
+Citizens Union Bank of Shelbyville,65746,1854 Midland Trail,Shelbyville,Kentucky,40065,www.cubbank.com,1888,Yes,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+The Missouri Bank II,491251,1601 South Limit,Sedalia,Missouri,65301,www.mymissouribank.com,1891,No,State,No,Yes,Commercial bank,FED,Yes,Commercial Lending Specialization
+The Missouri Bank,309150,104 North Highway 47,Warrenton,Missouri,63383,www.themissouribank.com,1934,No,State,No,Yes,Commercial bank,FED,Yes,Commercial Lending Specialization
+The First State Bank,627425,660 Central Avenue,Barboursville,West Virginia,25504,www.fsb-wv.com,1905,Yes,State,Yes,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+The First State Bank,627425,660 Central Avenue,Barboursville,West Virginia,25504,www.fsb-wv.com,1905,Yes,State,Yes,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+"MVB Bank, Inc",2757205,301 Virginia Avenue,Fairmont,West Virginia,26554,www.mvbbanking.com,1999,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Platte Valley Bank of Missouri,701259,2400 Prairie View Road,Platte City,Missouri,64079,www.plattevalleybank.com,1933,Yes,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Central Bank of the Midwest,704559,609 Ne 291 Hwy,Lees Summit,Missouri,64086,,1985,Yes,State,No,Yes,Commercial bank,FED,No,Commercial Lending Specialization
+Gold Coast Bank,3614369,2929 Expressway Drive North,Islandia,New York,11749,www.goldcoastbankny.com,2008,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Investors Bank,35570,101 John F Kennedy Pkwy,Short Hills,New Jersey,7078,www.investorsbank.com,1926,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Southwest Georgia Bank,699534,201 First Street S. E.,Moultrie,Georgia,31768,,1928,Yes,State,Yes,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+"The First, A National Banking Association",2385514,6480 Us-98 West,Hattiesburg,Mississippi,39402,www.thefirstbank.com,1996,No,Federal,No,Yes,Commercial bank,OCC,No,Commercial Lending Specialization
+First Advantage Bank,62772,1430 Madison Street,Clarksville,Tennessee,37040,www.firstadvantagebanking.com,1953,Yes,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Reliant Bank,3415463,1736 Carothers Pkwy,Brentwood,Tennessee,37027,www.reliantbank.com,2006,No,State,No,Yes,Commercial bank,FED,No,Commercial Lending Specialization
+Roselle Bank,324274,235 Chestnut St,Roselle,New Jersey,7203,,1889,No,State,No,No,Savings bank,FDIC,No,Mortgage Lending Specialization
+Columbia Bank,174572,19-01 Route 208,Fair Lawn,New Jersey,7410,www.columbiabankonline.com,1926,No,Federal,No,No,Savings Association,OCC,No,Commercial Lending Specialization
+First State Bank,454340,200 Pine Street,Crossett,Arkansas,71635,,1964,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Commercial Capital Bank,2756730,311 Broadway,Delhi,Louisiana,71232,www.comcapbank.com,1999,No,State,No,No,Commercial bank,FDIC,Yes,Agricultural  Specialization
+State Bank & Trust Company,736448,916 Highway 82 Bypass,Greenwood,Mississippi,38935,statebank1898.com,1898,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+BankPlus,121642,202 Jackson Street,Belzoni,Mississippi,39038,,1909,Yes,State,Yes,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+The Citizens Bank,809539,301 South Davis Street,Nashville,Georgia,31639,www.nhcbanking.com,1941,No,State,No,No,Commercial bank,FDIC,Yes,All Other Specialization  < 1 Billion
+FIRST COMMERCE CREDIT UNION,522276,PO BOX 6416,TALLAHASSEE,FL,32314,,1940,,,,,Credit Union,NCUA,,
+BMO Harris Bank National Association,75633,111 West Monroe Street,Chicago,Illinois,60603,www.bmoharris.com,1947,Yes,Federal,Yes,Yes,Commercial bank,OCC,No,Commercial Lending Specialization
+First Bank & Trust,294564,9816 Slide Road,Lubbock,Texas,79424,https://www.firstbanklubbock.com,1934,Yes,State,Yes,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Southern Bank & Trust,3353266,111 Southern Bank Drive,Clarkesville,Georgia,30523,www.sbandt.com,2005,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Pinnacle Bank,366238,884 Elbert St,Elberton,Georgia,30635,www.pinnaclebank.com,1934,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Revere Bank,3610567,"2101 Gaither Road, 6th Floor",Rockville,Maryland,20850,reverebank.com,2007,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Sandy Spring Bank,506922,17801 Georgia Avenue,Olney,Maryland,20832,www.sandyspringbank.com,1900,Yes,State,Yes,Yes,Commercial bank,FED,No,Commercial Lending Specialization
+"RECONTRUST COMPANY, NATIONAL ASSOCIATION",3313943,1800 TAPO CANYON ROAD,SIMI VALLEY,CA,93063,www.recontrustco.com,2005,Yes,Non-deposit Trust Company - Member,Yes,Yes,Nondeposit trust company,OCC,No,
+"Bank of America, National Association",480228,100 N Tryon St,Charlotte,North Carolina,28202,www.bankofamerica.com,1904,Yes,Federal,Yes,Yes,Commercial bank,OCC,No,All Other Specialization  > 1 Billion
+Marquis Bank,3625002,"355 Alhambra Circle, Suite 125",Coral Gables,Florida,33134,www.marquisbank.com,2007,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Professional Bank,3816510,396 Alhambra Cir,Coral Gables,Florida,33134,www.myprobank.com,2008,No,State,No,Yes,Commercial bank,FED,No,Commercial Lending Specialization
+H. F. Gehant Banking Co.,274641,2514 Johnson Street,West Brooklyn,Illinois,61378,www.gehantbank.com,1897,No,State,No,No,Commercial bank,FDIC,Yes,Agricultural  Specialization
+First State Bank,887340,706-8 Washington Street,Mendota,Illinois,61342,,1940,Yes,State,Yes,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Republic Bank & Trust,1198605,3510 West Robinson,Norman,Oklahoma,73069,www.rbt.com,1988,Yes,State,Yes,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Armstrong Bank,470452,1215 W Okmulgee St,Muskogee,Oklahoma,74401,,1910,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+First Bank of the Palm Beaches,3429282,615 North Dixie Highway,West Palm Beach,Florida,33401,,2006,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Seacoast National Bank,34537,815 Colorado Ave,Stuart,Florida,34994,www.seacoastbank.com,1933,Yes,Federal,Yes,Yes,Commercial bank,OCC,No,Commercial Lending Specialization
+"Farmers & Merchants Bank, of Orfordville",41245,303 Spring Street,Orfordville,Wisconsin,53576,www.orfordbank.com,1901,No,State,No,Yes,Commercial bank,FED,No,Agricultural  Specialization
+The Bank of Brodhead,517441,806 East Exchange Street,Brodhead,Wisconsin,53520,www.bankofbrodhead.com,1896,No,State,No,Yes,Commercial bank,FED,No,Agricultural  Specialization
+The Citizens State Bank,919755,402 West Broadway,Okemah,Oklahoma,74859,www.ibankcsb.com,1908,No,State,No,No,Commercial bank,FDIC,Yes,Agricultural  Specialization
+BancFirst,1386251,"101 North Broadway, Suite 200",Oklahoma City,Oklahoma,73102,,1989,Yes,State,Yes,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Ennis State Bank,435059,815 West Ennis Avenue,Ennis,Texas,75119,www.ennisstatebank.com,1933,Yes,State,No,No,Commercial bank,FDIC,Yes,Commercial Lending Specialization
+Madison Bank of Maryland,310071,1920 Rock Spring Road,Forest Hill,Maryland,21050,www.mbofmd.com,1904,No,Federal,No,No,Savings Association,OCC,No,Mortgage Lending Specialization
+BayVanguard Bank,242976,7114 North Point Road,Baltimore,Maryland,21219,www.bayvanguard.com,1873,No,State,No,No,Savings bank,FDIC,No,Mortgage Lending Specialization
+Progressive Savings Bank,535874,500 North Main Street,Jamestown,Tennessee,38556,,1980,No,State,No,No,Commercial bank,FDIC,Yes,Commercial Lending Specialization
+SmartBank,3532641,"2430 Teaster Lane, Suite 205",Pigeon Forge,Tennessee,37863,www.smartbank.com,2007,Yes,State,No,Yes,Commercial bank,FED,No,Commercial Lending Specialization
+State Bank of Arizona,1897270,1771 Mcculloch Boulevard,Lake Havasu City,Arizona,86403,www.mohavestbank.com,1991,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Glacier Bank,2634191,49 Commons Loop,Kalispell,Montana,59901,www.glacierbank.com,1955,Yes,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Security Bank,641355,"600 N Marienfeld Street, Suite 200",Midland,Texas,79701,www.mysbank.com,1928,No,State,No,No,Commercial bank,FDIC,Yes,Commercial Lending Specialization
+American Momentum Bank,3447576,One Momentum Boulevard,College Station,Texas,77845,,2006,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+First American Bank,653648,1207 Central Avenue,Fort Dodge,Iowa,50501,,1934,Yes,State,Yes,Yes,Commercial bank,FED,Yes,Commercial Lending Specialization
+GREENSTATE CREDIT UNION,225698,PO BOX 800,NORTH LIBERTY,IA,52317,,1938,,,,,Credit Union,NCUA,,
+Pioneer Bank,508841,5758 Main Street,Auburndale,Wisconsin,54412,,1910,No,State,No,No,Commercial bank,FDIC,No,Agricultural  Specialization
+First State Bank,801047,113 North Water Street,New London,Wisconsin,54961,www.bankfirststate.com,1911,No,State,No,No,Commercial bank,FDIC,No,Agricultural  Specialization
+Landmark Bank,103255,801 East Broadway,Columbia,Missouri,65201,www.landmarkbank.com,1865,Yes,State,Yes,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Simmons Bank,663245,501 Main Street,Pine Bluff,Arkansas,71611,www.simmonsbank.com,1903,Yes,State,Yes,Yes,Commercial bank,FED,No,Commercial Lending Specialization
+The First National Bank in Staunton,126740,115 South Elm Street,Staunton,Illinois,62088,www.fnbstaunton.com,1934,No,Federal,No,Yes,Commercial bank,OCC,Yes,Commercial Lending Specialization
+"Associated Bank, National Association",917742,200 North Adams Street,Green Bay,Wisconsin,54301,www.associatedbank.com,1874,Yes,Federal,Yes,Yes,Commercial bank,OCC,No,Commercial Lending Specialization
+Ericson State Bank,145956,427 Central Avenue,Ericson,Nebraska,68637,ericsonstatebank.com,1959,No,State,No,No,Commercial bank,FDIC,No,Agricultural  Specialization
+Farmers and Merchants Bank,455552,617 First Street,Milford,Nebraska,68405,www.bankfmb.com,1949,No,State,No,No,Commercial bank,FDIC,No,Agricultural  Specialization
+The Farmers National Bank of Scottsville,183846,1595 Veterans Memorial Hwy,Scottsville,Kentucky,42164,www.farmersnationalky.com,1923,No,Federal,No,Yes,Commercial bank,OCC,No,Commercial Lending Specialization
+FirstBank,436159,"211 Commerce Street, Suite 300",Nashville,Tennessee,37201,www.firstbankonline.com,1906,Yes,State,Yes,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Bank of Cushing,271752,224 East Broadway,Cushing,Oklahoma,74023,,1897,No,State,No,Yes,Commercial bank,FED,No,Other Specialized Lending < 1 Billion
+Blue Sky Bank,517357,101 East 8th Street,Pawhuska,Oklahoma,74056,,1905,No,State,No,Yes,Commercial bank,FED,Yes,Commercial Lending Specialization
+First  Ipswich Bank,442806,31 Market Street,Ipswich,Massachusetts,1938,www.firstipswich.com,1892,No,State,No,Yes,Commercial bank,FED,No,Commercial Lending Specialization
+Brookline  Bank,782306,2 Harvard Street,Brookline,Massachusetts,2445,www.brooklinebank.com,1871,No,State,No,Yes,Commercial bank,FED,No,Commercial Lending Specialization
+The First National Bank of Pawnee,639651,601 Harrison Street,Pawnee,Oklahoma,74058,fnbpawnee.com,1894,No,Federal,No,Yes,Commercial bank,OCC,Yes,Agricultural  Specialization
+First Bank & Trust Company,640956,407 7th Street,Perry,Oklahoma,73077,www.bankfbt.com,1934,Yes,State,Yes,No,Commercial bank,FDIC,Yes,Agricultural  Specialization
+The Farmers  Bank of Osborne,458553,102 West Main Street,Osborne,Kansas,67473,www.farmersbankofosborne.com,1901,No,State,No,No,Commercial bank,FDIC,Yes,Agricultural  Specialization
+The Peoples Bank,530655,222 South Main Street,Pratt,Kansas,67124,www.bellebank.com,1887,Yes,State,Yes,Yes,Commercial bank,FED,No,Agricultural  Specialization
+Citizens State Bank - Midwest,947655,307 Main Street West,Cavalier,North Dakota,58220,www.csbmidwest.com,1936,No,State,No,No,Commercial bank,FDIC,Yes,Agricultural  Specialization
+KodaBank,803957,104 South Main Street,Drayton,North Dakota,58225,www.kodabank.com,1916,No,State,No,No,Commercial bank,FDIC,Yes,Agricultural  Specialization
+"Grand Mountain Bank, FSB",3148033,337 East Agate Avenue,Granby,Colorado,80446,www.grandmountainbank.com,2003,No,Federal,No,No,Savings Association,OCC,No,Commercial Lending Specialization
+United Business Bank,3281510,500 Ygnacio Valley Road Suite 200,Walnut Creek,California,94596,www.unitedbusinessbank.com,2004,Yes,State,No,Yes,Commercial bank,FED,No,Commercial Lending Specialization
+Peoples State Bank,173548,102 South Main,Albia,Iowa,52531,www.peoplesiowa.com,1987,No,State,No,No,Commercial bank,FDIC,Yes,Agricultural  Specialization
+South Ottumwa Savings Bank,75446,320 Church Street,Ottumwa,Iowa,52501,www.sosb-ia.com,1903,Yes,State,Yes,No,Commercial bank,FDIC,Yes,All Other Specialization  < 1 Billion
+"Farmers Deposit Bank of Middleburg, Inc.",449841,2959 Shorttown Road,Middleburg,Kentucky,42541,www.farmersdeposit.com,1904,Yes,State,No,No,Commercial bank,FDIC,Yes,Commercial Lending Specialization
+The Farmers National Bank of Danville,785147,304 West Main Street,Danville,Kentucky,40422,www.fnbky.com,1879,Yes,Federal,Yes,Yes,Commercial bank,OCC,No,Commercial Lending Specialization
+First National Bank and Trust,717513,202 South Main Street,London,Kentucky,40741,www.fnblondonky.com,1903,Yes,Federal,No,Yes,Commercial bank,OCC,No,Commercial Lending Specialization
+Commercial Bank,497039,6710 Cumberland Gap Parkway,Harrogate,Tennessee,37752,www.cbtn.com,1976,No,State,No,Yes,Commercial bank,FED,No,Commercial Lending Specialization
+Home Savings Bank,932277,275 West Federal Street,Youngstown,Ohio,44503,www.homesavings.com,2000,Yes,State,Yes,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Premier Bank,981275,275 W Federal St,Youngstown,Ohio,44503,www.first-fedbanking.com,1920,Yes,State,Yes,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Gwinnett Community Bank,2853358,2775 Buford Highway,Duluth,Georgia,30096,www.gwinnettcommunitybank.com,1999,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+First-Citizens Bank & Trust Company,491224,239 Fayetteville Street,Raleigh,North Carolina,27601,https://www.firstcitizens.com,1898,Yes,State,Yes,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+First State Bank of Mobeetie,103563,101 S. Wheeler St,Mobeetie,Texas,79061,www.fsbmobeetie.com,1906,No,State,No,No,Commercial bank,FDIC,No,Agricultural  Specialization
+Happy State Bank,466857,100 East Main Street,Happy,Texas,79042,www.happybank.com,1908,Yes,State,Yes,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+NBW BANK,881544,210 East Main Street,Waupun,Wisconsin,53963,www.nbwbank.com,1905,No,State,No,Yes,Commercial bank,FED,No,Commercial Lending Specialization
+National Exchange Bank and Trust,722544,130 South Main Street,Fond Du Lac,Wisconsin,54935,https://www.nebat.com,1933,Yes,Federal,Yes,Yes,Commercial bank,OCC,No,Commercial Lending Specialization
+The Commerce Bank,3433047,320 Eagle Crest Drive,Evansville,Indiana,47715,www.bankwithcommerce.com,2006,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+INDIANA MEMBERS CREDIT UNION,215484,P.O. BOX 47769,INDIANAPOLIS,IN,46247,,1956,,,,,Credit Union,NCUA,,
+Citizens Bank,535641,1021 South Main Street,Hartford,Kentucky,42347,www.citizenshartland.com,1914,No,State,No,Yes,Commercial bank,FED,No,Commercial Lending Specialization
+The Cecilian Bank,982142,104 East Main,Cecilia,Kentucky,42724,www.thececilianbank.com,1903,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Citizens State Bank of Glenville,1001451,300 West Main Street,Glenville,Minnesota,56036,www.csbglenville.com,1910,No,State,No,No,Commercial bank,FDIC,Yes,Agricultural  Specialization
+Produce State Bank,24659,109 Park Ave W,Hollandale,Minnesota,56045,www.producestatebank.com,1926,No,State,No,No,Commercial bank,FDIC,Yes,Agricultural  Specialization
+"South Central Bank, National Association",18135,525 West Roosevelt Road,Chicago,Illinois,60607,www.banksouthcentral.com,1966,No,Federal,No,Yes,Commercial bank,OCC,Yes,Other Specialized Lending < 1 Billion
+"VERVE, A CREDIT UNION",607799,PO BOX 3046,OSHKOSH,WI,54903-3046,https://www.Verveacu.com,1938,,,,,Credit Union,NCUA,,
+Pacific Global Bank,2360904,2323 South Wentworth Avenue,Chicago,Illinois,60616,www.pacificglobalbank.com,1995,No,State,No,Yes,Commercial bank,FED,No,Mortgage Lending Specialization
+Royal Business Bank,3835454,1055 Wilshire Blvd. Suite 1200,Los Angeles,California,90017,www.royalbusinessbankusa.com,2008,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Frederick County Bank,3058329,2 North Market Street,Frederick,Maryland,21701,www.fcbmd.com,2001,No,State,No,Yes,Commercial bank,FED,No,Commercial Lending Specialization
+ACNB Bank,5210,16 Lincoln Square,Gettysburg,Pennsylvania,17325,www.acnb.com,1857,Yes,State,Yes,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+AFFINITY BANK,3118447,"400 Galleria Parkway Se, Suite 900",Atlanta,Georgia,30339,www.myaffinitybank.com,2002,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Newton Federal Bank,321273,3175 Highway 278,Covington,Georgia,30014,www.newtonfederal.com,1928,No,Federal,No,No,Savings Association,OCC,No,Commercial Lending Specialization
+Geauga Savings Bank,291273,10800 Kinsman Road,Newbury,Ohio,44065,www.geaugasavings.com,1983,No,Federal,No,No,Savings Association,FDIC,No,Commercial Lending Specialization
+The Farmers National Bank of Canfield,680813,20 South Broad Street,Canfield,Ohio,44406,www.farmersbankgroup.com,1887,No,Federal,No,Yes,Commercial bank,OCC,No,Commercial Lending Specialization
+Ann Arbor State Bank,3825080,125 W. William Street,Ann Arbor,Michigan,48104,www.a2sb.com,2009,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Level One Bank,3612525,32991 Hamilton Court,Farmington Hills,Michigan,48334,,2007,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+The Bank & Trust of Bryan/College Station,3415454,"1716 Briarcrest Drive, Suite 400",Bryan,Texas,77802,www.banktbt.com,2006,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+"First Financial Bank, National Association",470050,400 Pine Street,Abilene,Texas,79601,https://www.ffin.com/,1889,Yes,Federal,No,Yes,Commercial bank,OCC,No,Commercial Lending Specialization
+Bank of New Jersey,3443345,1365 Palisade Avenue,Fort Lee,New Jersey,7024,,2006,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+ConnectOne Bank,3317932,301 Sylvan Avenue,Englewood Cliffs,New Jersey,7632,www.connectonebank.com,2005,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Union Bank of Sparta,68448,124 West Oak Street,Sparta,Wisconsin,54656,www.ubsparta.com,1934,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+River Bank,279842,145 North Main Street,Stoddard,Wisconsin,54658,,1911,No,State,No,No,Commercial bank,FDIC,Yes,Commercial Lending Specialization
+First Neodesha Bank,172158,524 Main Street,Neodesha,Kansas,66757,fnb-ks.com,1872,No,State,No,Yes,Commercial bank,FED,Yes,Agricultural  Specialization
+Bank of Commerce,862057,101 West Main Street,Chanute,Kansas,66720,www.boc-ks.com,1985,Yes,State,Yes,Yes,Commercial bank,FED,Yes,Agricultural  Specialization
+Entegra Bank,239275,50 West Main Street,Franklin,North Carolina,28734,www.entegrabank.com,1922,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+First-Citizens Bank & Trust Company,491224,239 Fayetteville Street,Raleigh,North Carolina,27601,https://www.firstcitizens.com,1898,Yes,State,Yes,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+COMMUNITY BANK OF SNYDER,257466,1715 25th Street,Snyder,Texas,79549,www.cbankofsnyder.com,1905,Yes,State,No,No,Commercial bank,FDIC,No,Agricultural  Specialization
+Oakwood Bank,960560,8411 Preston Road Suite 106,Dallas,Texas,75225,www.oakwoodbank.com,1900,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Commercial State Bank,415855,127 W Main St,Cedar Bluffs,Nebraska,68015,,1935,No,State,No,No,Commercial bank,FDIC,No,Agricultural  Specialization
+Community State Bank,1008450,102 Spruce Street,Colon,Nebraska,68018,,1899,No,State,No,No,Commercial bank,FDIC,No,Agricultural  Specialization
+1st Bank & Trust,419255,710 South Park Drive,Broken Bow,Oklahoma,74728,www/1stbankandtrust.com,1946,Yes,State,No,Yes,Commercial bank,FED,Yes,All Other Specialization  < 1 Billion
+FirstBank,296456,100 North High Street,Antlers,Oklahoma,74523,www.firstbank-ok.com,1901,No,State,No,Yes,Commercial bank,FED,Yes,All Other Specialization  < 1 Billion
+Western Bank of Wolf Point,445852,111 3rd Avenue South,Wolf Point,Montana,59201,www.westernbankwp.com,1913,No,State,No,Yes,Commercial bank,FED,Yes,Agricultural  Specialization
+Opportunity Bank of Montana,685676,1400 Prospect Avenue,Helena,Montana,59601,www.opportunitybank.com,1922,No,State,No,Yes,Commercial bank,FED,No,Commercial Lending Specialization
+The Peoples National Bank of Mount Pleasant,484927,298 Union Street,Mount Pleasant,Ohio,43939,www.peoplesnbmp.com,1903,No,Federal,No,Yes,Commercial bank,OCC,No,Consumer Lending Specialization
+Consumers National Bank,477321,614 East Lincoln Way,Minerva,Ohio,44657,www.consumersbank.com,1965,No,Federal,No,Yes,Commercial bank,OCC,No,Commercial Lending Specialization
+Mechanics' Savings Bank,548203,100 Minot Avenue,Auburn,Maine,4210,www.mechanicssavings.com,1875,No,State,No,No,Savings bank,FDIC,No,Commercial Lending Specialization
+Maine Community Bank,499501,254 Main Street,Biddeford,Maine,4005,www.biddefordsavings.com,1867,Yes,State,No,No,Savings bank,FDIC,No,Commercial Lending Specialization
+Heritage Bank,574051,1850 Pearland Parkway,Pearland,Texas,77581,www.bankheritage.com,1985,No,State,No,Yes,Commercial bank,FED,No,Commercial Lending Specialization
+"Third Coast Bank, SSB",3630323,"20202 Hwy 59 North, Suite 190",Humble,Texas,77338,www.tcbssb.com,2008,No,State,No,No,Savings bank,FDIC,No,Commercial Lending Specialization
+The Midland National Bank of Newton,576653,527 N Main Street,Newton,Kansas,67114,,1893,No,Federal,No,Yes,Commercial bank,OCC,Yes,All Other Specialization  < 1 Billion
+Union State Bank,227151,127 South Summit Street,Arkansas City,Kansas,67005,www.myunionstate.com,1908,No,State,No,Yes,Commercial bank,FED,Yes,Commercial Lending Specialization
+Points West Community Bank,654252,809 Illinois Street,Sidney,Nebraska,69162,www.pointswbank.com,1980,No,State,No,No,Commercial bank,FDIC,Yes,Agricultural  Specialization
+Points West Community Bank,444556,1291 Main Street,Windsor,Colorado,80550,www.pwcbank.com,1906,No,State,No,No,Commercial bank,FDIC,Yes,Agricultural  Specialization
+Texas First State Bank,655660,400 South Highway 6,Riesel,Texas,76682,www.mytexasbank.com,1906,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+BancorpSouth Bank,606046,201 South Spring Street,Tupelo,Mississippi,38804,www.bancorpsouth.com,1876,Yes,State,Yes,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Mutual of Omaha Bank,786274,"1299 Farnam Street, Suite 1550",Omaha,Nebraska,68102,www.mutualofomahabank.com,1985,Yes,Federal,Yes,No,Savings Association,OCC,No,Commercial Lending Specialization
+"CIT Bank, National Association",3918898,95 South Lake Ave,Pasadena,California,91103,cit.com,2009,Yes,Federal,Yes,Yes,Commercial bank,OCC,No,Commercial Lending Specialization
+Chetopa State Bank & Trust Co.,925859,409 Maple Street,Chetopa,Kansas,67336,www.csb-ks.com,1901,Yes,State,No,Yes,Commercial bank,FED,Yes,Agricultural  Specialization
+Bank of Commerce,862057,101 West Main Street,Chanute,Kansas,66720,www.boc-ks.com,1985,Yes,State,Yes,Yes,Commercial bank,FED,Yes,Agricultural  Specialization
+Peoples Community Bank,947628,15960 Kings Highway,Montross,Virginia,22520,,1913,No,State,No,Yes,Commercial bank,FED,No,Commercial Lending Specialization
+Citizens and Farmers Bank,928421,Eighth And Main Streets,West Point,Virginia,23181,www.cffc.com,1927,Yes,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Highlands Union Bank,969424,340 West Main Street,Abingdon,Virginia,24210,www.hubank.com,1985,No,State,No,Yes,Commercial bank,FED,No,Commercial Lending Specialization
+First Community Bank,2353595,29 College Drive,Bluefield,Virginia,24605,www.fcbresource.com,1920,Yes,State,Yes,Yes,Commercial bank,FED,No,Commercial Lending Specialization
+"Family Federal Savings, F.A.",969974,130 Whalon Street,Fitchburg,Massachusetts,1420,www.familyfederal.com,1877,No,Federal,No,No,Savings Association,OCC,No,Mortgage Lending Specialization
+Fidelity Co-operative Bank,933377,9 Leominster Blvd,Leominster,Massachusetts,1453,www.fidelitybankonline.com,1888,No,State,No,No,Savings bank,FDIC,No,Commercial Lending Specialization
+"Cornerstone Bank, Inc.",978239,101 West Main Street,West Union,West Virginia,26456,www.cornerstonebankwv.com,1934,No,State,No,No,Commercial bank,FDIC,No,Other Specialized Lending < 1 Billion
+"Summit Community Bank, Inc",2372774,310 North Main Street,Moorefield,West Virginia,26836,mysummit.com,1995,Yes,State,Yes,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Country Bank,1191482,"655 Third Avenue, 9th Floor",New York,New York,10017,www.countrybankny.com,1988,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+"OceanFirst Bank, National Association",85472,975 Hooper Avenue,Toms River,New Jersey,8753,www.oceanfirst.com,1902,Yes,Federal,Yes,Yes,Commercial bank,OCC,No,Commercial Lending Specialization
+ANB Bank,828651,3033 East First Avenue,Denver,Colorado,80206,,1964,Yes,State,Yes,Yes,Commercial bank,FED,Yes,Commercial Lending Specialization
+TCF National Bank,266271,2508 South Louise Avenue,Sioux Falls,South Dakota,57106,www.tcfbank.com,1923,Yes,Federal,Yes,Yes,Commercial bank,OCC,No,Commercial Lending Specialization
+Clarkston State Bank,2735173,5800 South Main Street,Clarkston,Michigan,48346,www.clarkstonstatebank.com,1998,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+"Waterford Bank, N.A.",3588424,3900 N. Mccord Rd,Toledo,Ohio,43617,www.waterfordbankna.com,2007,No,Federal,No,Yes,Commercial bank,OCC,No,Commercial Lending Specialization
+Community Bank & Trust,2851185,575 South Main Street,Ashland City,Tennessee,37015,www.communitybankandtrustonline.com,1999,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Reliant Bank,3415463,1736 Carothers Pkwy,Brentwood,Tennessee,37027,www.reliantbank.com,2006,No,State,No,Yes,Commercial bank,FED,No,Commercial Lending Specialization
+Two River Community Bank,2888789,766 Shrewsbury Avenue,Tinton Falls,New Jersey,7724,www.tworiverbank.com,2000,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+"OceanFirst Bank, National Association",85472,975 Hooper Avenue,Toms River,New Jersey,8753,www.oceanfirst.com,1902,Yes,Federal,Yes,Yes,Commercial bank,OCC,No,Commercial Lending Specialization
+Carolina Trust Bank,2966614,901 East Main Street,Lincolnton,North Carolina,28092,www.carolinatrust.com,2000,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+CresCom Bank,3013823,288 Meeting Street,Charleston,South Carolina,29401,www.haveanicebank.com,2001,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Bank of Commerce,322850,24 West Division Street,Stilwell,Oklahoma,74960,,1931,No,State,No,No,Commercial bank,FDIC,Yes,Commercial Lending Specialization
+Carson Community Bank,539452,24 West Division Street,Stilwell,Oklahoma,74960,,1903,No,State,No,No,Commercial bank,FDIC,Yes,Agricultural  Specialization
+Scotiabank de Puerto Rico,716413,290 Jesus T. Pinero Avenue,San Juan,Puerto Rico,918,,1979,Yes,State,Yes,No,Commercial bank,FDIC,No,All Other Specialization  > 1 Billion
+Oriental Bank,245276,254 Munoz Rivera Avenue,San Juan,Puerto Rico,918,www.orientalbank.com,1965,Yes,State,Yes,No,Commercial bank,FDIC,No,All Other Specialization  > 1 Billion
+TransCapital Bank,2835756,8850 W Oakland Park Blvd,Sunrise,Florida,33351,,1999,No,State,No,No,Commercial bank,FDIC,Yes,Commercial Lending Specialization
+POWER FINANCIAL CREDIT UNION,289681,2020 NW 150th Avenue,Pembroke Pines,FL,33028,,1951,,,,,Credit Union,NCUA,,
+Farmers State Bank of Danforth,41937,Front And Adams Streets,Danforth,Illinois,60930,www.fsbdanforth.com,1915,No,State,No,No,Commercial bank,FDIC,No,Agricultural  Specialization
+First Trust Bank of Illinois,2718596,275 East Court Street,Kankakee,Illinois,60901,www.firsttrustbankil.com,1998,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Virginia Community Bank,105222,408 East Main Street,Louisa,Virginia,23093,www.virginiacommunitybank.com,1976,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+"Blue Ridge Bank,  National Association",233527,1 East Market Street,Martinsville,Virginia,24112,www.mybrb.com,2000,No,Federal,No,Yes,Commercial bank,OCC,No,Commercial Lending Specialization
+First Covenant Bank,3470864,1731 N Elm St,Commerce,Georgia,30529,www.myfcbusa.com,2006,No,State,No,No,Commercial bank,FDIC,No,Other Specialized Lending < 1 Billion
+"First Century Bank, National Association",2997748,807 Dorsey Street,Gainesville,Georgia,30501,www.myfirstcenturybank.com,2002,Yes,Federal,No,Yes,Commercial bank,OCC,No,Other Specialized Lending < 1 Billion
+Commercial State Bank,2823230,113-115 West Second Street,Donalsonville,Georgia,39845,www.commercialstatebank.net,1999,No,State,No,No,Commercial bank,FDIC,Yes,Agricultural  Specialization
+Georgia Community Bank,2823221,250 East Lee Street,Dawson,Georgia,39842,,1999,No,State,No,No,Commercial bank,FDIC,Yes,All Other Specialization  < 1 Billion
+BankLiberty,379171,16 West Franklin Street,Liberty,Missouri,64068,www.banklibertykc.com,1955,No,State,No,Yes,Commercial bank,FED,No,Commercial Lending Specialization
+Central Bank of the Midwest,704559,609 Ne 291 Hwy,Lees Summit,Missouri,64086,,1985,Yes,State,No,Yes,Commercial bank,FED,No,Commercial Lending Specialization
+"First Trust & Savings Bank of Albany, Illinois",583138,209 South Main Street,Albany,Illinois,61230,www.efirsttrust.com,1902,No,State,No,No,Commercial bank,FDIC,Yes,Commercial Lending Specialization
+Morton Community Bank,825146,721 West Jackson Street,Morton,Illinois,61550,www.hometownbanks.com,1961,Yes,State,Yes,No,Commercial bank,FDIC,Yes,Commercial Lending Specialization
+SunTrust Bank,675332,"303 Peachtreet Street, Northeast",Atlanta,Georgia,30308,,1891,Yes,State,Yes,Yes,Commercial bank,FED,No,Commercial Lending Specialization
+Truist Bank,852320,214 N Tryon St,Charlotte,North Carolina,28202,www.BBT.com,1872,Yes,State,Yes,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Security Home Bank,210452,147 Center Avenue,Malmo,Nebraska,68040,www.shbmalmo.com,1934,No,State,No,No,Commercial bank,FDIC,No,Agricultural  Specialization
+Cornerstone Bank,403151,529 North Lincoln Avenue,York,Nebraska,68467,www.cornerstoneconnect.com,1882,Yes,State,Yes,Yes,Commercial bank,FED,Yes,Agricultural  Specialization
+First State Bank of Ashby,299251,110 Main Street,Ashby,Minnesota,56309,www.fsbashby.com,1900,No,State,No,No,Commercial bank,FDIC,Yes,Agricultural  Specialization
+"VIKING BANK, NATIONAL ASSOCIATION",484776,4277 Dakota Street,Alexandria,Minnesota,56308,www.vikingbankmn.com,1981,No,Federal,No,Yes,Commercial bank,OCC,Yes,Commercial Lending Specialization
+First State Bank of Colfax,805447,100 North Walnut Street,Colfax,Iowa,50054,www.fsbankcolfax.com,1933,No,State,No,No,Commercial bank,FDIC,Yes,Agricultural  Specialization
+Bank Iowa,187947,"1225 Jordan Creek Parkway, Suite 200",West Des Moines,Iowa,50266,,1923,Yes,State,Yes,Yes,Commercial bank,FED,Yes,Agricultural  Specialization
+Oritani Bank,2376,370 Pascack Road,Township Of Washington,New Jersey,7676,www.oritani.com,1911,No,State,No,No,Savings bank,FDIC,No,Commercial Lending Specialization
+Valley National Bank,229801,615 Main Avenue,Passaic,New Jersey,7055,valley.com,1927,Yes,Federal,Yes,Yes,Commercial bank,OCC,No,Commercial Lending Specialization
+"DNB First, National Association",71318,4 Brandywine Avenue,Downingtown,Pennsylvania,19335,https://www.dnbfirst.com/,1861,Yes,Federal,Yes,Yes,Commercial bank,OCC,No,Commercial Lending Specialization
+S&T Bank,936426,800 Philadelphia Street,Indiana,Pennsylvania,15701,www.stbank.com,1902,Yes,State,Yes,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Rockford Bank and Trust Company,3303917,4571 Guilford Road,Rockford,Illinois,61107,,2005,Yes,State,Yes,Yes,Commercial bank,FED,No,Commercial Lending Specialization
+Illinois Bank & Trust,2339900,6855 East Riverside Boulevard,Rockford,Illinois,61114,www.illinoisbank.com,1995,Yes,State,Yes,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Pinnacle Bank,3383599,"14287 North 87th Street, Suite 123",Scottsdale,Arizona,85260,www.pinnaclebankaz.com,2005,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+ARIZONA FEDERAL CREDIT UNION,133074,PO Box 60070,Phoenix,AZ,85082,,1936,,,,,Credit Union,NCUA,,
+Oritani Bank,2376,370 Pascack Road,Township Of Washington,New Jersey,7676,www.oritani.com,1911,No,State,No,No,Savings bank,FDIC,No,Commercial Lending Specialization
+Old Line Bank,1401387,1525 Pointer Ridge Place,Bowie,Maryland,20716,www.oldlinebank.com,1989,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+"WesBanco Bank, Inc.",645625,One Bank Plaza,Wheeling,West Virginia,26003,www.wesbanco.com,1870,Yes,State,Yes,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+The First and Farmers Bank,696551,509 Parke Avenue,Portland,North Dakota,58274,www.ffbnk.com,1886,No,State,No,No,Commercial bank,FDIC,No,Agricultural  Specialization
+First State Bank,917050,423 Broadway,Buxton,North Dakota,58218,www.firststatebanks.com,1885,No,State,No,No,Commercial bank,FDIC,Yes,Agricultural  Specialization
+First Delta Bank,713140,214 Hester Parker Drive,Marked Tree,Arkansas,72365,www.firstdeltabank.com,1951,No,State,No,Yes,Commercial bank,FED,No,Agricultural  Specialization
+Armor Bank,168571,715 N Washington,Forrest City,Arkansas,72335,,1919,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+West Texas State Bank,167864,1501 West University Boulevard,Odessa,Texas,79764,www.wtstatebk.com,1937,Yes,State,No,No,Commercial bank,FDIC,Yes,Commercial Lending Specialization
+City Bank,575254,5219 City Bank Parkway,Lubbock,Texas,79407,,1984,Yes,State,Yes,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+The First National Bank of Paducah,1014965,Tenth And Bacus Streets,Paducah,Texas,79248,www.fnbpaducah.com,1909,No,Federal,No,Yes,Commercial bank,OCC,No,Agricultural  Specialization
+Wellington State Bank,371362,1000 Eighth Street,Wellington,Texas,79095,www.wellingtonsb.com,1906,Yes,State,No,Yes,Commercial bank,FED,Yes,Agricultural  Specialization
+First Bank of Newton,332055,128 East Broadway Street,Newton,Kansas,67114,www.firstbankks.com,1873,No,State,No,No,Commercial bank,FDIC,Yes,Consumer Lending Specialization
+"Intrust Bank, National Association",557858,105 North Main Street,Wichita,Kansas,67202,www.intrustbank.com,1876,Yes,Federal,Yes,Yes,Commercial bank,OCC,No,Commercial Lending Specialization
+Pony Express Community Bank,646958,3702 Faraon Street,Saint Joseph,Missouri,64506,www.ponyexpr.com,1975,No,State,No,No,Commercial bank,FDIC,No,Agricultural  Specialization
+First Option Bank,285852,601 Main Street,Osawatomie,Kansas,66064,www.firstoptionbank.com,1923,Yes,State,Yes,Yes,Commercial bank,FED,Yes,All Other Specialization  < 1 Billion
+Iowa State Savings Bank,849647,222 East Robinson Street,Knoxville,Iowa,50138,www.issbank.com,1903,Yes,State,Yes,Yes,Commercial bank,FED,Yes,Agricultural  Specialization
+Marion County State Bank,97943,800 Main Street,Pella,Iowa,50219,www.marioncountybank.com,1935,Yes,State,Yes,No,Commercial bank,FDIC,Yes,Agricultural  Specialization
+Bank of Prescott,967943,East 2nd And Main Streets,Prescott,Arkansas,71857,www.bankofprescott.com,1904,Yes,State,No,No,Commercial bank,FDIC,No,All Other Specialization  < 1 Billion
+Farmers Bank & Trust Company,12946,200 East Main Street,Magnolia,Arkansas,71753,,1906,Yes,State,Yes,Yes,Commercial bank,FED,No,Commercial Lending Specialization
+Shore Community Bank,2539081,1012 Hooper Avenue,Toms River,New Jersey,8753,,1997,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+1st Constitution Bank,1412619,2650 Route 130,Cranbury,New Jersey,8512,www.1stconstitution.com,1989,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Community Bank and Trust of Florida,2655495,1603 Southwest 19th Avenue,Ocala,Florida,34471,cbtfl.com,1998,Yes,State,Yes,No,Commercial bank,FDIC,No,Other Specialized Lending < 1 Billion
+MIDFLORIDA CREDIT UNION,101381,129 S Kentucky Ave,Lakeland,FL,33801,http://www.midflorida.com,1954,,,,,Credit Union,NCUA,,
+First Alliance Bank,2848756,"51 Germantown Court, Suite 100",Cordova,Tennessee,38018,www.fabtn.com,1999,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Guaranty Bank and Trust Company,84541,210 N. Hayden St,Belzoni,Mississippi,39038,www.gbtonline.com,1943,Yes,State,Yes,No,Commercial bank,FDIC,Yes,Commercial Lending Specialization
+Choice Bank,3455236,1041 N. Westhaven Dr,Oshkosh,Wisconsin,54904,,2006,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Nicolet National Bank,2941068,111 N. Washington Street,Green Bay,Wisconsin,54301,www.nicoletbank.com,2000,Yes,Federal,Yes,Yes,Commercial bank,OCC,No,Commercial Lending Specialization
+The Union Bank,144436,305 North Main Street,Marksville,Louisiana,71351,www.union-bank.com,1910,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+First Guaranty Bank,422433,400 East Thomas Street,Hammond,Louisiana,70401,,1934,Yes,State,Yes,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Citizens State Bank,877154,3915 Ssw Loop 323,Tyler,Texas,75701,www.mybankcsb.com,1967,No,State,No,Yes,Commercial bank,FED,No,Commercial Lending Specialization
+"Spirit of Texas Bank, SSB",260868,625 University Drive,College Station,Texas,77840,www.sotb.com,1976,No,State,No,No,Savings bank,FDIC,No,Commercial Lending Specialization
+City National Bank of New Jersey,567905,54 Halsey Street,Newark,New Jersey,7102,www.citynatbank.com,1973,No,Federal,No,Yes,Commercial bank,OCC,No,Commercial Lending Specialization
+Industrial Bank,536527,4812 Georgia Avenue Nw,Washington,District Of Columbia,20011,www.industrial-bank.com,1934,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+River Town Bank,639343,102 North Front Street,Dardanelle,Arkansas,72834,www.rivertownbank.com,1934,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Chambers Bank,517049,901 Main Street,Danville,Arkansas,72833,www.chambers-bank.com,1930,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+KeyBank National Association,280110,127 Public Square,Cleveland,Ohio,44114,www.key.com,1849,Yes,Federal,Yes,Yes,Commercial bank,OCC,No,Commercial Lending Specialization
+Countryside Bank,225335,6734 Joliet Road,Countryside,Illinois,60525,www.bankcountryside.com,1975,No,State,No,No,Commercial bank,FDIC,Yes,Commercial Lending Specialization
+"Hinsdale Bank & Trust Company, National Association",2119773,25 East First Street,Hinsdale,Illinois,60521,www.hinsdalebank.com,1993,Yes,Federal,No,Yes,Commercial bank,OCC,No,Commercial Lending Specialization
+Bank of York,359838,301 Broad Street,York,Alabama,36925,www.bankyork.com,1911,No,State,No,No,Commercial bank,FDIC,Yes,Commercial Lending Specialization
+"Investar Bank, National Association",3449066,7244 Perkins Road,Baton Rouge,Louisiana,70808,www.investarbank.com,2006,No,Federal,No,Yes,Commercial bank,OCC,No,Commercial Lending Specialization
+Atlantic Stewardship Bank,527507,630 Godwin Avenue,Midland Park,New Jersey,7432,,1985,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Columbia Bank,174572,19-01 Route 208,Fair Lawn,New Jersey,7410,www.columbiabankonline.com,1926,No,Federal,No,No,Savings Association,OCC,No,Commercial Lending Specialization
+United Bank,633501,151 Asylum Street,Hartford,Connecticut,6103,www.bankatunited.com,1858,Yes,State,No,No,Savings bank,FDIC,No,Commercial Lending Specialization
+"People's United Bank, National Association",613307,850 Main Street,Bridgeport,Connecticut,6604,www.peoples.com,1988,Yes,Federal,Yes,Yes,Commercial bank,OCC,No,Commercial Lending Specialization
+LegacyTexas Bank,878898,5851 Legacy Drive,Plano,Texas,75024,www.legacytexas.com,2006,No,State,No,Yes,Commercial bank,FED,No,Commercial Lending Specialization
+Prosperity Bank,664756,1301 North Mechanic Street,El Campo,Texas,77437,www.prosperitybankusa.com,1949,Yes,State,Yes,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+The First National Bank of Wynne,988845,528 East Merriman Avenue,Wynne,Arkansas,72396,www.fnbwynne.com,1915,Yes,Federal,Yes,Yes,Commercial bank,OCC,No,Agricultural  Specialization
+First Financial Bank,48374,315 West Main Street,El Dorado,Arkansas,71730,https://www.ffb1.com,1934,Yes,State,Yes,Yes,Commercial bank,FED,Yes,Agricultural  Specialization
+River Cities Bank,2518497,1601 Lincoln Street,Wisconsin Rapids,Wisconsin,54494,www.rivercitiesbank.com,1997,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Prevail Bank,27070,675 E. Broadway Ave.,Medford,Wisconsin,54451,,1935,No,Federal,No,No,Savings Association,OCC,No,Mortgage Lending Specialization
+Trinity Bank,3424483,1479 West Main Street,Dothan,Alabama,36302,www.trinitybankusa.com,2006,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+River Bank & Trust,3437157,2611 Legends Drive,Prattville,Alabama,36066,www.riverbankandtrust.com,2006,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+AltaPacific Bank,3453737,4845 Old Redwood Highway,Santa Rosa,California,95403,www.apbconnect.com,2006,No,State,No,Yes,Commercial bank,FED,No,Commercial Lending Specialization
+Banner Bank,352772,10 South First Avenue,Walla Walla,Washington,99362,www.bannerbank.com,1890,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Vantage Bank of Alabama,3488869,407 North Broad Street,Albertville,Alabama,35950,https://www.vantagebankal.com,2006,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+First Southern State Bank,246134,80 Bank Street,Stevenson,Alabama,35772,www.fssbank.com,1910,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+First Florida Bank,3525577,2000 Ninety-Eight Palms Blvd.,Destin,Florida,32541,,2006,No,State,No,Yes,Commercial bank,FED,No,Commercial Lending Specialization
+"The First, A National Banking Association",2385514,6480 Us-98 West,Hattiesburg,Mississippi,39402,www.thefirstbank.com,1996,No,Federal,No,Yes,Commercial bank,OCC,No,Commercial Lending Specialization
+Fort Gibson State Bank,186856,South Lee Street And Maple Avenue,Fort Gibson,Oklahoma,74434,www.fortgibsonstatebank.com,1973,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Firstar Bank,427353,1720 East Cherokee Street,Sallisaw,Oklahoma,74955,www.firstar-bank.com,1964,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+"Republic Bank, Inc.",316354,4929 Decker Road,Duluth,Minnesota,55811,www.bankrepublic.com,1978,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+National Bank of Commerce,775456,1127 Tower Avenue,Superior,Wisconsin,54880,www.nbcbanking.com,1934,No,Federal,No,Yes,Commercial bank,OCC,Yes,Commercial Lending Specialization
+The First National Bank of Jackson,620015,1126 Main Street,Jackson,Kentucky,41339,www.firstnationalbankjackson.com,1909,No,Federal,No,Yes,Commercial bank,OCC,No,All Other Specialization  < 1 Billion
+Citizens Deposit Bank & Trust,344816,Second & Main Street,Vanceburg,Kentucky,41179,https://www.cdbt.com,1930,Yes,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+State Bank,926342,801 S. Main St,Gresham,Wisconsin,54128,,1908,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+AbbyBank,198149,401 East Spruce Street,Abbotsford,Wisconsin,54405,www.abbybank.com,1968,No,State,No,No,Commercial bank,FDIC,No,Agricultural  Specialization
+Columbia National Bank,1006344,700 Colombia Centre,Columbia,Illinois,62236,www.columbianationalbank.com,1976,Yes,Federal,No,Yes,Commercial bank,OCC,Yes,Commercial Lending Specialization
+FCB Banks,1459717,800 Belt Line Rd,Collinsville,Illinois,62234,www.fcbbanks.com,1990,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Resolute Bank,3461264,3425 Briarfield Boulevard Suite 100,Maumee,Ohio,43537,resolutefsb.com,2006,No,Federal,No,No,Savings Association,OCC,No,Commercial Lending Specialization
+Buckeye State Bank,870913,9494 Wedgewood Boulevard,Powell,Ohio,43065,,1885,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Louisa Community Bank,3462449,4393 Highway 2565,Louisa,Kentucky,41230,www.BankLCB.com,2006,No,State,No,No,Commercial bank,FDIC,No,Commercial Lending Specialization
+Kentucky Farmers Bank Corporation,683814,2500 Broadway,Catlettsburg,Kentucky,41129,www.kentuckyfarmersbank.com,1931,Yes,State,Yes,No,Commercial bank,FDIC,Yes,All Other Specialization  < 1 Billion
+Continental National Bank,837037,1801 S.W. 1st Street,Miami,Florida,33135,https://www.continentalbank.com,1974,No,Federal,No,Yes,Commercial bank,OCC,No,Commercial Lending Specialization
+First American Bank,850036,700 Busse Road,Elk Grove Village,Illinois,60007,www.firstambank.com,1901,Yes,State,Yes,No,Commercial bank,FDIC,Yes,All Other Specialization  > 1 Billion
+First State Bank of Colorado,277053,102 East Bridge Street,Hotchkiss,Colorado,81419,www.firststatebank-co.com,1930,Yes,State,Yes,Yes,Commercial bank,FED,No,Commercial Lending Specialization
+United Business Bank,3281510,500 Ygnacio Valley Road Suite 200,Walnut Creek,California,94596,www.unitedbusinessbank.com,2004,Yes,State,No,Yes,Commercial bank,FED,No,Commercial Lending Specialization
+The Citizens State Bank of Taylor County,960533,36 Martin Luther King Drive,Reynolds,Georgia,31076,,1922,No,State,No,No,Commercial bank,FDIC,Yes,All Other Specialization  < 1 Billion
+Georgia Community Bank,2823221,250 East Lee Street,Dawson,Georgia,39842,,1999,No,State,No,No,Commercial bank,FDIC,Yes,All Other Specialization  < 1 Billion
